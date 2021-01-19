@@ -1,0 +1,3 @@
+Sitemap: http://cjip.jatengprov.go.id/sitemap.xml
+User-agent: *
+Disallow:

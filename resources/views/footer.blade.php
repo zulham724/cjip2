@@ -1,0 +1,1 @@
+<script src="{{asset('map/assets/js/map-leaflet2.js')}}"></script>

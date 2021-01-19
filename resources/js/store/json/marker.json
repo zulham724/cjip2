@@ -1,0 +1,1833 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5548700000000002,
+                    110.848
+                ]
+            },
+            "properties": {
+                "id": 3,
+                "title": "Solo Convention-Exhibition Hall",
+                "nilai_investasi": "Rp 124,489,000,000",
+                "npv": "Rp. 9.171.270.000",
+                "irr": "17,56%",
+                "bc_ratio": "1,07",
+                "luas_lahan": "27.500 m2",
+                "payback_period": "4 tahun 10 bulan 25 hari",
+                "latar_belakang": "Kota Surakarta merupakan kota yang selalu menyelenggarakan berbagai macam event menarik di setiap tahunnya namun sayangnya saat ini belum memiliki tempat yang dapat digunakan untuk melangsungkan berbagai macam event tersebut. Untuk mendukung program Pemerintah dalam menjadikan Kota Surakarta sebagai Kota MICE (Meeting, Incentive, Convention, Exhibition), maka perlu dibuatnya sebuah Convention-Exhibition Hall yang nantinya dapat digunakan untuk menyelenggarakan berbagai macam event baik lokal, nasional maupun internasional. Kawasan yang dipilih untuk mewujudkan Convention-Exhibition Hall adalah di kawasan Perumda Pergudangan dan Aneka Usaha (PAU) Pedaringan Kota Surakarta dengan luas 27.500 m2 yang akan dibagi menjadi Convention-Exhibition Hall seluas 12.500 m2 dan area parkir seluas 15.000 m2. Fasilitas pendukung yang ada dalam Convention-Exhibition Hall dilengkapi dengan meeting room, supporting room, tenant food court, office dan mini store, guest house serta area parkir.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "PAU \u201cPedaringan\u201d Kota Surakarta memiliki lahan yang cukup luas dan available untuk lokasi pembangunan Convention-Exhibition Hall tersebut.",
+                "status_kepemilikan": "Lahan Milik Pemerintah Kota Surakarta",
+                "skema_investasi": "Build Operate Transfer",
+                "kab_kota": "Kota Surakarta",
+                "market": "Ready to Offer",
+                "sektor": "Property",
+                "cp_nama": "Chriswanto Tri Santoso, S.E., M.M",
+                "cp_hp": "085602237412",
+                "cp_email": "ppks@pedaringan.com",
+                "cp_alamat": "Jl. Kentingan No.1 Jebres, Surakarta, Jawa Tengah, 57126",
+                "file_kajian": "[]",
+                "file_keuangan": "[{\"download_link\":\"proyeks\\\/September2019\\\/nQfPW7XEnrQkBb95i7n0.xlsx\",\"original_name\":\"data pendapatan dan NPV SCEH.xlsx\"}]",
+                "fotos": [
+                    "proyeks\/September2019\/2hWNJHIxIh6OQTtrNCHa.jpg",
+                    "proyeks\/September2019\/eQxzSaGFTYzbXXn2PPWX.jpg",
+                    "proyeks\/September2019\/TzmPmj7NxYQIOHdG6MH6.jpg",
+                    "proyeks\/September2019\/Ln7kma3QZfArjgHyLETY.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/1.png",
+                "url": "project\/3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3376900000000003,
+                    109.90900000000001
+                ]
+            },
+            "properties": {
+                "id": 4,
+                "title": "Pengembangan Pemandian Kalianget",
+                "nilai_investasi": "Rp 12,204,669,200",
+                "npv": "Rp 10.275.702.677",
+                "irr": "18%",
+                "bc_ratio": "1,84",
+                "luas_lahan": "5 Ha",
+                "payback_period": "2 tahun 10 bulan",
+                "latar_belakang": "Pemandian Kalianget merupakan pemandian air panas yang sudah terkenal di Wonosobo. Lokasinya yang strategis memudahkan pengun-jung mengaksesnya menggunakan sepeda motor, mobil, bus atau kendaraan umum. Pemandian Kalianget memanfaatkan sumber mata air panas alami yang mengandung belerang. Kondisi yang ada pada Pemandian Kalianget saat ini adalah lahan parkir yang luas, kolam rendam pribadi, tempat bermain anak \u2013 anak, sungai di sekitar lokasi dan juga ada beberapa bagian di dalamnya seperti kolam dan bangunan yang kurang dikem-bangkan. Direncanakan pada lokasi wisata Pemandian Kalianget akan dibangun pusat kulin-er dan pertokoan yang dapat disewa oleh warga yang ingin bermitra dengan pihak penyelengga-ra. Selain itu, diharapkan juga di sekitar wisata Pemandian Kalianget dapat dikembangkan wahana outbond, permainan, rest area, serta penginapan yang dapat lebih menunjang kenya-manan wisatawan.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Area Parkir Pengunjung, Bangunan Kolam Rendam Pribadi, Sungai,  Bangunan Tidak Terawat, Kolam Tidak Terawat, Lapangan Olahraga, Tempat Bermain Anak-anak, dan  Pemandian Pribadi \"",
+                "status_kepemilikan": "Aset Pemerintah Kabupaten Wonosobo",
+                "skema_investasi": "Joint Venture , Kerjasama Sewa-Tambah dan Guna maksimal 10 tahun",
+                "kab_kota": "Kabupaten Wonosobo",
+                "market": "Ready to Offer",
+                "sektor": "Tourism",
+                "cp_nama": "Hana Novie Eva Sinta, SE (Dinas Penanaman Modal dan Perijinan Terpadu Satu Pintu Kabupaten Wonosobo)",
+                "cp_hp": "0822200653766",
+                "cp_email": "-",
+                "cp_alamat": "Jl. Kartini No.11, Wonosobo Timur, Kec. Wonosobo, Kab. Wonosobo, Jawa Tengah 56311",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/e1D8N3NPB96lLOjUINt3.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/1.png",
+                "url": "project\/4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7096200000000001,
+                    111.021
+                ]
+            },
+            "properties": {
+                "id": 5,
+                "title": "Pengembangan Pembenihan Ikan Nila Salin",
+                "nilai_investasi": "Rp 11,936,943,162",
+                "npv": "Rp 13.924.965.603",
+                "irr": "17,41%",
+                "bc_ratio": "5,24",
+                "luas_lahan": "2,33 Ha",
+                "payback_period": "3 Tahun",
+                "latar_belakang": "Sub sektor perikanan merupakan pemasok bahan pangan khusus kebutuhan protein yang sangat berguna untuk menunjang pertumbuhan fisik manusia. Hal ini didukung dengan kondisi alam Indonesia dimana sekitar \u02dc nya merupakan wilayah perairan yang sarat dengan potensi perikanan dan sumber protein hayati lainnya. Kabupaten Pati sendiri memiliki lahan seluas 642Ha yang digunakan sebagai budidaya ikan nila salin yang tersebar di Kecamatan Tayu, Keca-matan Dukuhseti dan Kecamatan Margoyoso. Pengembangan pembenihan ikan nila salin ini dilakukan agar dapat memenuhi permintaan pasar domestik yakni sebesar 96.300.000 ekor benih. Selain itu pengembangan pembenihan ikan nila salin ini juga sejalan dengan rencana Kemen-terian Kelautan dan Perikanan Republik Indone-sia yang akan menetapkan Kabupaten Pati sebagai Kawasan Budidaya Ikan Nila Salin. Lokasi pengembangan pembenihan ikan nila salin ini akan ditempatkan di Balai Benih Ikan (BBI) Tlogowungu, BBI Brati dan BBI Sukolilo.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Tanah kosong dan tambak ikan",
+                "status_kepemilikan": "Pemerintah Kabupaten Pati",
+                "skema_investasi": "a, Kerjasama Sewa-Tambah dan Guna maksimal 10 tahun, b. Joint Venture",
+                "kab_kota": "Kabupaten Pati",
+                "market": "Ready to Offer",
+                "sektor": "Agriculture",
+                "cp_nama": "Ir. Edy Martanto, MM. (Kepala DKP Kabupaten Pati)",
+                "cp_hp": "081326270555",
+                "cp_email": null,
+                "cp_alamat": "Jalan Sudirman No.12, Plangitan, Kec. Pati, Kabupaten Pati, Jawa Tengah 59113",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/oNZj9QJ7uCKQ5tqPRLYU.JPG"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/1.png",
+                "url": "project\/5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7012799999999997,
+                    109.304
+                ]
+            },
+            "properties": {
+                "id": 6,
+                "title": "Industri Perikanan Udang Terpadu",
+                "nilai_investasi": "Rp 550,021,650,000",
+                "npv": "a. Pabrik pakan Rp 6.774.704.945 b. Pembenihan udang Rp 14.335.629.742 c. Pembesaran udang Rp 92.066.490.783 d. Pabrik Pengolahan udang Rp 66.801.306.600",
+                "irr": "a. Pabrik pakan 22% b. Pembenihan udang 26% c. Pembesaran udang 24% d. Pabrik Pengolahan udang 39%",
+                "bc_ratio": "a. Pabrik pakan  1,29 b. Pembenihan udang 1,47 c. Pembesaran udang  1,37 d. Pabrik Pengolahan udang 2,11",
+                "luas_lahan": "12.700 m2",
+                "payback_period": "a. Pabrik pakan  4 tahun 2 bulan 14 hari b. Pembenihan udang 3 tahun 8 bulan 28 hari c. Pembesaran udang 4 tahun  d. Pabrik Pengolahan udang 2 tahun 8 bulan 2 hari",
+                "latar_belakang": "Pada tahun 2017 permintaan udang dunia sebesar 6,9 juta ton, sementara produksi udang tangkap dan budidaya dunia sebesar 5,5 juta ton. Selain itu, sepanjang pesisir pantai Cilacap berkembang pesat tambak-tambak udang vaname yang membutuhkan pasokan benih unggul dan pakan yang selama ini didatangkan dari luar Cilacap. \nProyek investasi yang ditawarkan adalah Industri Perikanan Udang Terpadu dengan 4 kegiatan utama untuk kepentingan para petambak lokal, regional dan kebutuhan sendiri:\nI. Pendirian pabrik pengolahan udang (Cold Storage) untuk menyerap dan mengolah hasil  panen tambak sendiri maupun para petambak lainnya \nII. Pendirian Hatchery untuk kebutuhan benih udang sendiri dan  para petambak\nIII. Pendirian Pabrik Pakan Ikan untuk kebutuhan pakan udang sendiri dan para petambak\nIV. Pendirian Tambak udang untuk menjaga kontinyuitas pasokan bahan baku industri pengolahan udang",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Masih sangat besar peluang mengembangan usaha budidaya Udang Vaname dengan orientasi ekspor pada khususnya, serta industri perikanan pada umumnya di Kabupaten Cilacap. maka penting untuk mendirikan sebuah industri terpadu di Kabupaten Cilacap dengan spesi",
+                "status_kepemilikan": "Pemerintah Kabupaten Cilacap",
+                "skema_investasi": "BOT dengan kerjasama maksimal 25 tahun",
+                "kab_kota": "Kabupaten Cilacap",
+                "market": "Ready to Offer",
+                "sektor": "Manufacture",
+                "cp_nama": "Dian Arinda Murni, SH, MM (Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu  Kabupaten Cilacap)",
+                "cp_hp": "0811260831",
+                "cp_email": "sekretariat.bpmpt.cilacap@gmail.com",
+                "cp_alamat": "Jl. Dr. Sutomo No. 2 Cilacap",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/MDFWGdythoZe2Nl3cXAW.jpeg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/1.png",
+                "url": "project\/6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3285099999999996,
+                    110.057
+                ]
+            },
+            "properties": {
+                "id": 7,
+                "title": "Pengembangan Kawasan Kledung",
+                "nilai_investasi": "Rp 18,746,924,000",
+                "npv": "Rp 2.397.131.051",
+                "irr": "18%",
+                "bc_ratio": "1,13",
+                "luas_lahan": "3,05 Ha",
+                "payback_period": "7 tahun 11 bulan",
+                "latar_belakang": "Menurut rencana, rest area Kledung akan  dibangun dengan luas 3,05 Ha dengan memilih lokasi yang strategis dengan panorama Gunung Sindoro - Sumbing dan berada di pinggir jalan utama Temanggung \u2013 Dieng. Pembangunan rest area Kledung ini dikarenakan banyaknya objek wisata yang mulai berkembang di Kecamatan Kledung. Hal tersebut diharap mampu menjadi peluang bagi pembangunan rest area Kledung. Pembangunan rest area Kledung ini nantinya meliputi penginapan, restaurant dan cafe, business center, fasilitas umum dan ruang terbuka wisata pendukung. Dengan pengembangan yang dilakukan untuk Agrowisata Kledung dan rest area Kledung diharapkan dapat saling berko-laborasi untuk menumbuhkan perkembangan ekonomi untuk Kabupaten Temanggung.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Lokasi sangat strategis dengan panorama Gunung Sumbing dan Gunung Sindoro, yang terletak di jalan utama jalan Temanggung-Dieng",
+                "status_kepemilikan": "Pemerintah Kabupaten Temanggung",
+                "skema_investasi": "BOT dengan kerjasama maksimal 20 tahun.",
+                "kab_kota": "Kabupaten Temanggung",
+                "market": "Ready to Offer",
+                "sektor": "Property",
+                "cp_nama": "Dinas Penanaman Modal Dan Pelayanan Terpadu Satu Pintu Kabupaten Temanggung",
+                "cp_hp": "082322602899",
+                "cp_email": "dpmptsptemanggung@yahoo.com",
+                "cp_alamat": "Jln. Jend. Sudirman No. 41-42 Temanggung 56216",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/IyNejEl0fiYLiXD1E1gh.jpg",
+                    "proyeks\/September2019\/irpzcIDJcfKDX8v9Zutf.jpg",
+                    "proyeks\/September2019\/Df4EtKx2FdXsSiMDixvQ.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/1.png",
+                "url": "project\/7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7140300000000002,
+                    111.63
+                ]
+            },
+            "properties": {
+                "id": 8,
+                "title": "Pembangunan Docking Kapal",
+                "nilai_investasi": "Rp 45,500,000,000",
+                "npv": "Rp 12.519.154.800",
+                "irr": "19,70%",
+                "bc_ratio": "6,8",
+                "luas_lahan": "8 Ha",
+                "payback_period": "5 tahun 9 bulan 2 hari",
+                "latar_belakang": "Besarnya potensi perikanan di Kabupaten Rembang membuat banyak masyarakat memanfaatkannya dengan menjadi seorang nelayan sehingga tak sedikit pula yang memiliki kapal untuk mendukung performanya dalam menangkap ikan. Untuk membuat kapal dapat dijalankan secara maksimal, pemilik harus melakukan docking kapal. Untuk melakukan docking kapal, biasanya pemilik kapal melakukannya di luar Kabupaten Rembang tepatnya di Juana yang letaknya paling dekat yakni \u00b127 km dari Kabupaten Rembang. Hal ini dapat menjadi potensi untuk Kabupaten Rembang membangun fasilitas docking kapal yang dapat digunakan oleh masyarakat yang berprofesi sebagai nelayan dan juga pemilik kapal yang ada di Pati serta Tuban yang merupakan wilayah dengan potensi kelautan. Lokasi yang dapat digunakan untuk membangun fasilitas docking kapal berada di Desa Kebloran Kecamatan Kragan Kabupaten Rembang.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Kabupaten Rembang dalam melakukan kegiatan docking adalah ke Juana yang jaraknya \u00b127 Km dan harus mengantri agar dapat dilayani karena jumlah dockingnya masih relatif sedikit, sehingga para pemilik kapal biasanya harus menunggu selama 2 sampai 3 bulan bar",
+                "status_kepemilikan": "Pemerintah Kabupaten Rembang",
+                "skema_investasi": "BOT dengan maksimal kerjasama 20 tahun",
+                "kab_kota": "Kabupaten Rembang",
+                "market": "Ready to Offer",
+                "sektor": "Infrastructure",
+                "cp_nama": "Murni Nur Rif\u2019ah, SH (DPMPTSPNAKER Kabupaten Rembang)",
+                "cp_hp": "0295691349",
+                "cp_email": "pm.kab.rembang@gmail.com",
+                "cp_alamat": "Jl. Raya Rembang - Blora, Ngotet Kidul, Ngotet, Kec. Rembang, Kabupaten Rembang, Jawa Tengah 59219",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/jN9TxMe6BqoCpf5KR3y7.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/1.png",
+                "url": "project\/8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9070400000000003,
+                    111.36199999999999
+                ]
+            },
+            "properties": {
+                "id": 75,
+                "title": "Investasi Objek Wisata Waduk Greneng",
+                "nilai_investasi": "Rp 2,831,500,000",
+                "npv": "Rp 1.431.418.879",
+                "irr": "29%",
+                "bc_ratio": "1,51",
+                "luas_lahan": "45 Ha",
+                "payback_period": "4 Tahun 26 hari",
+                "latar_belakang": "Waduk Greneng terletak di Desa Tunjungan Kecamatan Tunjungan Kabupaten Blora yang berbatasan langsung dengan Kabupaten Rembang dan berdekatan dengan kawasan hutan KPH Mantingan Rembang. Adanya Waduk Greneng juga didukung oleh sumber daya manusia yang juga berperan untuk melayani kebutuhan wisatawan. Potensi alam yang dihasilkan dari pertanian, perkebunan dan peternakan, membuat masyarakat sekitar memanfaatkannya untuk diolah menjadi makanan, handicraft, seller dan usaha jasa lainnya seperti transportasi, guide, parkir dan infrastruktur outbound. Adapun daya tarik yang ada di sekitar Waduk Greneng ialah pemandangan alamnya sendiri serta bukit cemoro pitu yang berlatar belakang hutan jati dan sonokeling. Selain itu di sekitar Waduk Greneng juga masih terdapat banyak lahan kosong yang dapat dikembangkan untuk dapat memenuhi pesona wisata seperti penangkaran burung dan juga taman bunga.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "1. Jaringan Energy dan tenaga listrik. 2. Jaringan Telekomunikasi. 3. Jaringan Sumber daya air dan jaminan pasokan air baku.  4. Sanitasi. 5. Jaringan transportasi.",
+                "status_kepemilikan": "Pemerintah Kabupaten Blora, Balai Besar Wilayah Sungai Propvinsi Jawa Tengah, Perum Perhutani Unit I Jawa Tengah",
+                "skema_investasi": "Kerjasama Sewa-Tambah dan Guna maksimal 10 tahun",
+                "kab_kota": "Kabupaten Semarang",
+                "market": "Prospective Project",
+                "sektor": "Tourism",
+                "cp_nama": "Dalisa, SE. (Kasi Perencanaan Penanaman Modal)",
+                "cp_hp": "082135727736",
+                "cp_email": "dpmptsp.blora@gmail.com",
+                "cp_alamat": "-",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/BrOGmGQaJ6Nbfr05r4xn.jpg",
+                    "proyeks\/September2019\/A9KRPP7VFfvy5R7EWMRx.jpg",
+                    "proyeks\/September2019\/hrbM54qwfTtUIXCG8t3B.jpg",
+                    "proyeks\/September2019\/rQwTctg3VPsuciJ0nJE3.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/2.png",
+                "url": "project\/75"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9061599999999999,
+                    110.502
+                ]
+            },
+            "properties": {
+                "id": 76,
+                "title": "Pengembangan Wisata Bahari Morosari",
+                "nilai_investasi": "Rp 10,965,000,000",
+                "npv": "Rp 14.159.578.122",
+                "irr": "27%",
+                "bc_ratio": "1,60",
+                "luas_lahan": "89.743 Ha",
+                "payback_period": "3 Tahun 11 bulan 24 hari",
+                "latar_belakang": "Pantai Morosari yang terletak di Desa Bedono Kecamatan Sayung Kabupaten Demak kini memiliki potensi untuk menjadi salah satu wisata bahari yang ada di Kabupaten Demak. Tersedianya lahan yang cukup luas, membuat pengelola merencanakan pengembangan berbagai macam fasilitas yang dapat mendukung kelengkapan dari Wisata Bahari Pantai Morosari. Adapun fasilitas yang akan dikembangkan antara lain tempat penginapan, rumah makan\/restoran, dan pemancingan. Selain itu juga permainan air seperti waterboom, laba\u2013laba air, kolam arus, ocean park, dan kolam renang. Bukan hanya permainan air saja, namun juga akan dibuat olahraga air seperti banana boat dan polo air. Selain itu juga akan disediakan permainan darat diantaranya bianglala, kolam bola, bombom car, serta outbond. Mangrove yang tumbuh dengan subur di sekitar pantai juga akan terus dikembangkan untuk mendukung keindahan Wisata Bahari Pantai Morosari.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Sarana rekreasi, kuliner dan souvenir yang masih dalam satu kompleks tempat wisata. Pemandangan dari gardu pandang dan taman, serta wahana permainan outbond.  Sarana rekreasi, Kuliner dan Souvenir dalam satu komplek, Gardu pandang dan taman, serta wahana",
+                "status_kepemilikan": "PT Anwusa Persada",
+                "skema_investasi": "a.\tJoint Venture dengan Perusda PT ANWUSA PERSADA. b.\tBuild Operate Transfer dengan maksimal kerjasama 15 tahun tanpa pembangunan bianglala. Bila membangun bianglala maka kerjasama maksimal 25 tahun",
+                "kab_kota": "Kabupaten Demak",
+                "market": "Prospective Project",
+                "sektor": "Tourism",
+                "cp_nama": "Endang Kurnia, SE (Kasi Promosi Dan Pengembangan Usaha DINPM PTSP Kabupaten Demak)",
+                "cp_hp": "085290268874",
+                "cp_email": "pengembangandatabpptpm@gmail.com",
+                "cp_alamat": "Jl. Kyai Mugni No.1018 A Demak",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/JoEBwPmDUPqKdCjAMHv0.jpg",
+                    "proyeks\/September2019\/xy96Vxfb81tyb1yzJBsa.jpg",
+                    "proyeks\/September2019\/B8UEytchUAe3637HymJO.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/2.png",
+                "url": "project\/76"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9970800000000004,
+                    110.56
+                ]
+            },
+            "properties": {
+                "id": 77,
+                "title": "Pengembangan Museum Lapang",
+                "nilai_investasi": "Rp 11,350,000,000",
+                "npv": "Rp 378.648.710",
+                "irr": "15,88%",
+                "bc_ratio": "1,03",
+                "luas_lahan": "2 Ha",
+                "payback_period": "6 Tahun 10 bulan 5 hari",
+                "latar_belakang": "Pengembangan Muselum Lapang yang berada di Desa Banjarejo, Kecamatan Gabus, Kabupaten Grobogan merupakan bentuk upaya pelestarian cagar budaya berupa relief fosil binatang sebagai bagian dari peradaban manusia purba yang dapat menunjang ilmu pengetahuan dan perkembangan sejarah di Indonesia. Museum Lapang merupakan objek wisata yang menyajikan tempat penemuan fosil berupa gajah purba, kerbau purba, buaya, kuda nil, badak, rusa, serigala, ikan hiu, kura kura, dan banteng purba. Selain itu, terdapat juga penemuan situs pasangan batu bata kuno yang mengindikasikan adanya peninggalan bangunan besar dan bersejarah. Benda-benda kuno yang terdapat pada Museum Lapang antara lain perlengkapan keramik, perhiasan emas, pusaka berupa keris dan jenis pusaka lainnya serta terdapat pula bekas ladang pengeboran minyak yang dilakukan oleh penjajah Belanda. Sarana penunjang pengembangan Museum Lapang di antaranya plaza, adventure zone, gardu pandang, tempat kuliner, mushola, lavatory, TPS, dan gazebo.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "1. Berisi replika fosil binatang.   2. Berfungsi untuk obyek wisata dan dokumentasi penelitian.   3. Sudah dibangun bangunan yang menaungi replika fosil   4. Jalan akses berupa jalan setapak dengan perkerasan tanah padat",
+                "status_kepemilikan": "Lahan dimiliki oleh Pemerintah Daerah Kabupaten Grobogan, Pemerintah Desa, dan warga",
+                "skema_investasi": "Build Operate Transfer minimal 15 tahun",
+                "kab_kota": "Kabupaten Grobogan",
+                "market": "Prospective Project",
+                "sektor": "Tourism",
+                "cp_nama": "Dyah Prijatiningtyas, S.Psi. Psikolog. (Kasi Promosi Penanaman Modal DPMPTSP Kabupaten Grobogan)",
+                "cp_hp": "081329949376",
+                "cp_email": "nawangwulan0102@gmail.com; bpptgrobogan@yahoo.com",
+                "cp_alamat": "Jl. Dr. Sutomo No. 8",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/XpPRDr0JYgbzrUjILScw.jpg",
+                    "proyeks\/September2019\/7PPwXoZZdyn05bLlyr5Z.jpg",
+                    "proyeks\/September2019\/CTJKc9sI3ozVd6UJcDiq.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/2.png",
+                "url": "project\/77"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.0238800000000001,
+                    110.765
+                ]
+            },
+            "properties": {
+                "id": 78,
+                "title": "Pengembangan Sistem Resi Gudang",
+                "nilai_investasi": "Rp 50.000.000.000",
+                "npv": "-",
+                "irr": "-",
+                "bc_ratio": "-",
+                "luas_lahan": "8,5 Ha",
+                "payback_period": "-",
+                "latar_belakang": "Sistem Resi Gudang Kabupaten Grobogan adalah suatu badan hukum yang akan melakukan serangkaian kegiatan meliputi pencatatan, penyimpanan, pemindahbukuan kepemilikan, pembebanan hak jaminan, pelaporan serta penyediaan sistem dan jaringan informasi pusat registrasi resi gudang. Sistem Resi Gudang Kabupaten Grobogan akan digunakan untuk penyimpanan komoditas hasil panen petani di antaranya padi dan jagung. Tidak hanya menyimpan saja, Sistem Resi Gudang Kabupaten Grobogan juga dapat memproduksi beras dengan kualitas yang bagus dengan merek \u201cSrikandi Grobogan\u201d. Management Sistem Resi Gudang Kabupaten Grobogan sangat professional karena juga menjalin kerja sama dengan petani, kelompok tani bahkan BUMDes untuk menjadi mitra dengan program kemitraan seperti pengadaan saprodi yang dibayar pada saat panen, pinjaman modal berusaha tani, asuransi usaha tani padi dan kemitraan pengadaan beras untuk bantuan pangan non tunai (BPNT).",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Berupa Gudang Beras dan lahan untuk pengeringan padi",
+                "status_kepemilikan": "Pemerintah Daerah Kabupaten Grobogan",
+                "skema_investasi": "Build Transfer and Operate Contract  selama 10 tahun",
+                "kab_kota": "Kabupaten Semarang",
+                "market": "Potential Project",
+                "sektor": "Agriculture",
+                "cp_nama": "Dyah Prijatiningtyas, S.Psi. Psikolog. (Kasi Promosi Penanaman Modal DPMPTSP Kab. Grobogan)",
+                "cp_hp": "081329949376",
+                "cp_email": "nawangwulan0102@gmail.com; bpptgrobogan@yahoo.com",
+                "cp_alamat": "Jl. Dr. Sutomo No. 8",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/HelXkLgOvQAPGbuMEnyZ.jpg",
+                    "proyeks\/September2019\/wFD1pVFyX2TGYFdhkimF.jpg",
+                    "proyeks\/September2019\/Ki6fQae1k1K04fExNvjj.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/3.png",
+                "url": "project\/78"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4229599999999998,
+                    110.93300000000001
+                ]
+            },
+            "properties": {
+                "id": 80,
+                "title": "Pengembangan Wisata Goa Tritip",
+                "nilai_investasi": "Rp 31,734,782,500",
+                "npv": "Rp 6.205.411.701",
+                "irr": "17,49%",
+                "bc_ratio": "1,20",
+                "luas_lahan": "63.390 m2",
+                "payback_period": "6 Tahun 7 bulan 28 hari",
+                "latar_belakang": "Goa Tritip yang terletak di Desa Ujungwatu Kecamatan Donorojo Kabupaten Jepara merupakan objek wisata lereng perbukitan yang berdekatan dengan beberapa potensi objek wisata yang dapat di kembangkan. Dinamakan Goa Tritip karena terdapat goa di antara celah batu dengan tekstur yang tidak rata yang dalam bahasa Jawa disebut Tritip. Warga sekitar meyakini gua tersebut memiliki tuah atau tempat petilasan karena terdapat potongan kapal milik Mbah Joyo Kusumo. Kegiatan yang dapat dilakukan pengunjung saat berada di Goa Tritip di antaranya seperti berkemah, tracking mengelilingi bukit, atau berjalan menuju atas bukit untuk melihat pemandangan laut dan perbukitan yang ada di sekitar kawasan wisata. Adapun potensi wisata lainnya yang ada di sekitar kawasan Goa Tritip di antaranya lahan pertanian alam, jalur wisata perbukitan, spot foto dan tempat istirahat dengan background pegunungan, sawah, pepohonan serta pantai. Selain itu terdapat juga mini cafe, gardu pandang, rumah pohon, ayunan langit, pemandangan sunset dan sunrise, flying fox dan paralayang, camping ground, offroad track dan open space yang biasanya digunakan untuk tempat pertunjukan atau acara.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "1. Jalan Aspal menuju lokasi Goa Tritip 2. Tenda warung minuman yang letaknya di sekitar lokasi Goa Tritip 3.  Mini Cafe di atas bukit 4.  Gardu pandang dan spot-spot yang menarik. 5.  Sarana pendukung wisata, antara lain: toilet dan lahan parkir",
+                "status_kepemilikan": "DImiliki oleh Pemerintah Daerah Kabupaten Jepara",
+                "skema_investasi": "Build Operate Transfer maksimal 20 tahun",
+                "kab_kota": "Kabupaten Jepara",
+                "market": "Prospective Project",
+                "sektor": "Tourism",
+                "cp_nama": "Wuri Andajani, S.IP M.M. (Kabid Penanaman Modal DPMPTSP Jepara)",
+                "cp_hp": "08122579043",
+                "cp_email": "andajaniwuri@gmail.com",
+                "cp_alamat": "-",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/t91LXvI2uCsPbG2MloAL.jpg",
+                    "proyeks\/September2019\/moP6ATsOoA9tWB3Horvy.jpg",
+                    "proyeks\/September2019\/Nix9w4LN2ZvhRxC1x6gD.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/2.png",
+                "url": "project\/80"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5755600000000003,
+                    110.628
+                ]
+            },
+            "properties": {
+                "id": 82,
+                "title": "Pengembangan AQUA EDU CULTURE PARK PANJANG ISLAND",
+                "nilai_investasi": "Rp 22,255,000,000",
+                "npv": "Rp 17.518.769.473",
+                "irr": "22,72%",
+                "bc_ratio": "1,79",
+                "luas_lahan": "19,2 Ha",
+                "payback_period": "4 tahun 7 bulan 4 hari",
+                "latar_belakang": "Terletak di Desa Bulu Kecamatan Jepara Provinsi Jawa Tengah, lokasi Pulau panjang berjarak 2 km dari pantai kartini Jepara dan 80 km dari Kepulauan Karimunjawa. Pulau Panjang memiliki keindahan pasir pantai yang putih dengan dikelilingi laut dangkal yang jernih serta memiliki terumbu karang. Pada bagian tengah dari Pulau Panjang terdapat hutan Tropis dengan pohon yang tinggi menjulang serta diselingi perdu dan semak sebagai tempat burung laut berkembang biak. Fasilitas yang ada di sekitar makam ini terdiri dari mushola, tempat wudhu, toilet serta terdapat juga air barokah yang berasal dari sumur dan dapat dikonsumsi oleh pengunjung. Bagi pengunjung yang ingin melakukan wisata bahari akan dikenakan tiket masuk sebesar Rp 3.000,00 per orang dan dapat langsung bermain air di pantai yang memiliki ombak relatif kecil. Permainan lainnya yang disediakan di Pulau panjang lainnya ialah snorkeling, kapal kano dan juga persewaan sepeda yang disediakan untuk dapat mengelilingi Pulau Panjang serta camping ground yang disediakan di pinggir pantai.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "1 Tempat ibadah (Mushola). 2 Jalan setapak (paving) yang mengelilingi Pulau Panjang. 3 Sitting Group\/tempat duduk. 4 Dermaga Perahu. 5 Perahu Wisata",
+                "status_kepemilikan": "Pemerintah Daerah Kabupaten Jepara",
+                "skema_investasi": "Build Operate Transfer maksimal 15 tahun",
+                "kab_kota": "Kabupaten Jepara",
+                "market": "Ready to Offer",
+                "sektor": "Tourism",
+                "cp_nama": "Suhardi, SSos, MM (Kabid Penanaman Modal DPMPTSP Jepara)",
+                "cp_hp": "08122568987",
+                "cp_email": "andajaniwuri@gmail.comhardishman10@gmail.com",
+                "cp_alamat": "Kantor DPMPTSP Kabupaten Jepara",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/aZpOqQ3RzI5SJJ8VZ61X.jpg",
+                    "proyeks\/September2019\/boA8585eOBh8xumBOJAU.jpg",
+                    "proyeks\/September2019\/Bx2RjObvGsYTYyO2q1Ic.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/1.png",
+                "url": "project\/82"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.0869299999999997,
+                    110.09999999999999
+                ]
+            },
+            "properties": {
+                "id": 83,
+                "title": "Pengembangan Obyek Wisata Curug Sewu",
+                "nilai_investasi": "Rp 36,146,650,000",
+                "npv": "Rp 3.603.927.263",
+                "irr": "16,88%",
+                "bc_ratio": "1,10",
+                "luas_lahan": "6,373 Ha",
+                "payback_period": "7 Tahun 1 bulan 10 Hari",
+                "latar_belakang": "Nama Curug Sewu diambil sesuai dengan lokasi air terjun ini berada yakni di Desa Curug Sewu Kecamatan Patean, Kabupaten Kendal. Kegiatan yang ada pada kawasan Curug Sewu di antaranya kegiatan wisata, jual beli dan kegiatan pelayanan penginapan. Kegiatan jual beli dan layanan penginapan tersebut ada untuk mendukung wisata Curug Sewu karena jumlah pengunjung yang datang setiap harinya mencapai angka 450 hingga 500 orang. Adapun fasilitas-fasilitas yang terdapat dalam Curug Sewu di antaranya pendopo, gardu pandang, taman remaja serta kolam renang, kolam pancing, warung, panggung terbuka beserta kebun binatang, dan juga toilet. Di sekitar objek wisata Curug Sewu sendiri juga masih terdapat banyak lahan yang belum dimanfaatkan. Melihat dari potensi yang dihasilkan oleh Curug Sewu, akan menjadi baik apabila lahan yang masih kosong di sekitar objek wisata tersebut dapat dimanfaatkan untuk saling mendukung perkembangan wisata tersebut.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "1. Pendopo 2. Gardu Pandang 3. Taman Remaja dan kolam renang 4. Kolam Pancing 5. Warung 6. Panggung terbuka dan kebun binatang 7. Toilet",
+                "status_kepemilikan": "Pemerintah Daerah Kabupaten Kendal",
+                "skema_investasi": "Build Operate Transfer maksimal 20 tahun",
+                "kab_kota": "Kabupaten Kendal",
+                "market": "Prospective Project",
+                "sektor": "Tourism",
+                "cp_nama": "Catur Yosiawan I, SE. MA (Kasie Promosi)",
+                "cp_hp": "(0294) - 384022 (DPMPTSP Kendal)",
+                "cp_email": "cendanaserat@gmail.com; dpmptsp.kendalkab.go.id",
+                "cp_alamat": "Jl. Soekarno Hatta No. 191",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/DScVeqttoDQuFE2wMAFd.jpg",
+                    "proyeks\/September2019\/uipKopM98AcRgPWLZVOE.jpg",
+                    "proyeks\/September2019\/lQYE8ZRBVnKc1CsuaYy5.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/2.png",
+                "url": "project\/83"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1002400000000003,
+                    110.276
+                ]
+            },
+            "properties": {
+                "id": 84,
+                "title": "Pengembangan Objek Kolam Renang Boja",
+                "nilai_investasi": "Rp 11,448,625,000",
+                "npv": "Rp 598.473.970.142",
+                "irr": "24,35%",
+                "bc_ratio": "4,98",
+                "luas_lahan": "9.250 m2",
+                "payback_period": "4 Tahun",
+                "latar_belakang": "Kolam Renang Boja yang berada pada Jl. Boja - Kaliwungu No 27, Sapen, Boja, Kabupaten Kendal, Jawa Tengah ini merupakan kolam renang yang dikelola oleh Pemerintah Kabupaten Kendal. Terdapat dua buah kolam di dalamnya yaitu kolam renang prestasi dan kolam renang rekreasi. Dengan kedalaman \u00b12 meter, panjang 50 meter dan lebar 20 meter, kolam renang prestasi kerap kali digunakan untuk penyelenggaraan lomba renang prestasi. Jumlah wisatawan domestik yang berkunjung di Kolam Renang Boja pada tahun 2017 sebanyak 46.612 orang dan merupakan pengunjung terbanyak jika dibandingkan dengan wisata air lainnya. Adapun fasilitas dalam Kolam Renang Boja diantaranya kolam prestasi, kolam rekreasi, wahana permainan air seperti seluncur air, ember tumpah, three in one serta semburan air mancur dari ketinggian 5 meter. Selain itu juga terdapat fasilitas tempat ganti, gazebo, mushola dan kios makanan.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "1. Kolam Renang Prestasi 2. Kolam Renang Anak 3. Wahana permainan berbagai macam seperti halnya seluncur air, ember tumpah, three in one, serta semburan air mancur 4. Gazebo 5. Musholla 6. Kios Makanan 7. Tempat Ganti",
+                "status_kepemilikan": "Pemerintah Daerah Kabupaten Kendal",
+                "skema_investasi": "a) Kerjasama Sewa-Tambah dan Guna  maksimal 10 tahun b) BOT maksimal 15 tahun",
+                "kab_kota": "Kabupaten Kendal",
+                "market": "Prospective Project",
+                "sektor": "Tourism",
+                "cp_nama": "CP Nama Catur Yosiawan I, SE. MA (Kasie Promosi)",
+                "cp_hp": "(0294) - 384022",
+                "cp_email": "cendanaserat@gmail.com; dpmptsp.kendalkab.go.id",
+                "cp_alamat": "Jl. Soekarno Hatta No. 191",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/YEOGxR38ZGqGS2B8VSkC.jpg",
+                    "proyeks\/September2019\/ScQKqctRE5Ko2qce0WcG.jpg",
+                    "proyeks\/September2019\/wNEFQAwsoGSYBQbH1yi1.jpg",
+                    "proyeks\/September2019\/ZA7awoVmDblM4Tj3srT5.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/2.png",
+                "url": "project\/84"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.6632400000000001,
+                    110.90000000000001
+                ]
+            },
+            "properties": {
+                "id": 85,
+                "title": "Pengembangan Objek Wisata Colo",
+                "nilai_investasi": "Rp 10,204,328,000",
+                "npv": "Rp 7.679.346.259",
+                "irr": "25,04%",
+                "bc_ratio": "1,36",
+                "luas_lahan": "1 Ha",
+                "payback_period": "4 Tahun 9 bulan 27 Hari",
+                "latar_belakang": "Objek wisata Colo merupakan objek wisata unggulan di Kabupaten Kudus dengan pengunjung sebanyak 661.545 orang pada tahun 2017. Dengan menawarkan wisata religi dan wisata alam, wisatawan yang datang diharapkan tidak hanya dapat berziarah ke Makam Sunan Muria saja, namun juga dapat berolahraga, beristirahat, bahkan menginap dengan sajian pemandangan dan kesejukan alam Pegunungan Muria. Dengan harga tiket masuk sebesar Rp 30.000, pengunjung juga ditawarkan fasilitas olahraga, outbound, makanan, dan minuman. Bukan hanya mengembangkan objek wisata yang religius dengan penuh fasilitas menarik, Objek Wisata Colo juga memiliki daya dukung lingkungan yang baik dari sisi geografi, air, dan udara serta memiliki akses yang sangat mudah untuk dicapai karena letaknya yang dapat dilalui oleh motor, mobil, dan bahkan juga bus.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Sarana rekreasi, kuliner dan souvenir yang masih dalam satu kompleks tempat wisata. Pemandangan dari gardu pandang dan taman, serta wahana permainan outbond",
+                "status_kepemilikan": "Pemerintah Daerah Kabupaten Kudus",
+                "skema_investasi": "Kerjasama Sewa-Tambah dan Guna maksimal 10 tahun",
+                "kab_kota": "Kabupaten Kudus",
+                "market": "Prospective Project",
+                "sektor": "Tourism",
+                "cp_nama": "Arif Waluyo",
+                "cp_hp": "082241888814",
+                "cp_email": "dpmptsp@kuduskab.go.id",
+                "cp_alamat": "-",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/XwJO4cHrAvmCF5JLIxL4.jpg",
+                    "proyeks\/September2019\/wa3liVb9uRZlNapQPF5x.jpg",
+                    "proyeks\/September2019\/Cc0jBI6Lw3wxdK1UhZHF.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/2.png",
+                "url": "project\/85"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.45878,
+                    111.05
+                ]
+            },
+            "properties": {
+                "id": 86,
+                "title": "Pelabuhan Perikanan Banyutowo",
+                "nilai_investasi": "Rp 103,561,000,000",
+                "npv": "Rp 131.545.475.857",
+                "irr": "11,33%",
+                "bc_ratio": "2,27",
+                "luas_lahan": "2 Ha",
+                "payback_period": "15 Tahun 8 bulan",
+                "latar_belakang": "Pelabuhan Perikanan Banyutowo memiliki arti penting bagi masyarakat nelayan di Kabupaten Pati khususnya dalam pelayanan kegiatan perikanan tangkap dan kegiatan perikanan lainnya. Potensi produksi perikanan yang berasal dari Laut Jawa ini membuat kondisi perikanan tangkap di Pelabuhan Perikanan Banyutowo mencapai 1.061.027 kg dan didukung oleh armada penangkapan  sebanyak 219 unit yang terdiri dari 21 kapal motor dan motor tempel 198 unit. Dengan luas lahan 2 Ha, Pelabuhan Perikanan Banyutowo dapat menjadi sentra untuk berbagai kegiatan perikanan yaitu untuk tempat pelelangan ikan, industri pengelolaan hasil perikanan, cold storage, perbengkelan, perkantoran, perbankan dan pertokoan. Dengan pengembangan Pelabuhan Perikanan Banyutowo diharapkan juga dapat meningkatkan pembangunan ekonomi lokal untuk memberikan kesempatan kerja serta mampu memperbaiki masyarakat dengan menggunakan sumber daya yang ada.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Eksisting kondisi dari masterplan PPI Banyutowo saat ini adalah sudah mulai dibangun sarana prasarana berupa akses jalan berupa rabat beton, bangunan TPI, bangunan SPDN, dan drainase di kawasan TPI tersebut. Kondisi nelayan masih melakukan aktivitas pelel",
+                "status_kepemilikan": "Pemerintah Daerah Kabupaten Pati",
+                "skema_investasi": "Build Operate Transfer dengan maksimal kerjasama 25 tahun",
+                "kab_kota": "Kabupaten Pati",
+                "market": "Prospective Project",
+                "sektor": "Infrastructure",
+                "cp_nama": "Sugiyono, A.P.M.Si (Kepala DPMPTSP Kabupaten Pati)",
+                "cp_hp": "082135888920",
+                "cp_email": "dpmptsp.kabpati@gmail.com",
+                "cp_alamat": "Jl. Tombronegoro Nomor 1 Pati",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/FwM9xQvS2xKIvbSVBbrv.jpg",
+                    "proyeks\/September2019\/Ozeu46pPnljdlJw8YrIo.jpg",
+                    "proyeks\/September2019\/Z7MxMvlpZqdm7MxJqKdI.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/2.png",
+                "url": "project\/86"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2666300000000001,
+                    110.467
+                ]
+            },
+            "properties": {
+                "id": 87,
+                "title": "Pengembangan Kawasan Wisata Agroedupark Tlogowening",
+                "nilai_investasi": "Rp 361,500,000,000",
+                "npv": "Rp 97.980.433.952",
+                "irr": "18,09%",
+                "bc_ratio": "1,20",
+                "luas_lahan": "401,2023 Ha",
+                "payback_period": "7 Tahun 2 bulan",
+                "latar_belakang": "Lokasi kawasan wisata Agroedupark Tlogo Wening terletak di Desa Delik, Kecamatan Tuntang, Kabupaten Semarang dan merupakan pengembangan kawasan wisata terpadu melalui integrasi kawasan Tlogo, Bawen, Rawa Pening dan ekonomi kreatif sebagai kawasan pariwisata. Terletak di ketinggian 430 \u2013 675 meter diatas permukaan laut, Agroedupark Tlogo Wening yang memiliki icon danau Rawa Pening yang merupakan salah satu landmark pariwisata Jawa Tengah. Rawa Pening yang menjadi daya tarik utama merupakan danau alam terbesar di Pulau Jawa dengan luas 2.670 Ha. Selain danau Rawa Pening, daya tarik wisata Agroedupark Tlogo Wening adalah panorama Gunung Merbabu, Telomoyo dan juga Ungaran. Jumlah pengunjung Kawasan Wisata Agroedupark Tlogo Wening selama tiga tahun terakhir menunjukkan peningkatan yang signifikan yaitu sebanyak 37.382 orang wisatawan per tahun yang terdiri dari 36.850 wisatawan nusantara dan 532 wisatawan mancanegara. Jumlah wisatawan ini meningkat empat kali lipat lebih banyak dari tahun-tahun sebelumnya.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "a. Kolam Renang dan Kolam Pancing b. Plantation Tour  c. Restoran d. Area Perkemahan e. Area Outbound f. Meeting Room \/ Ruang Pertemuan g. Room\/Kamar",
+                "status_kepemilikan": "PD Citra Mandiri Jawa Tengah (Perusda Prov Jawa Tengah)",
+                "skema_investasi": "Build Operate Transfer minimal 20 tahun",
+                "kab_kota": "Kabupaten Semarang",
+                "market": "Ready to Offer",
+                "sektor": "Tourism",
+                "cp_nama": "Windarsih SE, MT",
+                "cp_hp": "081228467576",
+                "cp_email": "dpmptspkabsemarang@gmail.com",
+                "cp_alamat": "-",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/aQUpVqXrAGVmkVU9TVwg.jpg",
+                    "proyeks\/September2019\/u43VFcuqt12MVkkiqcBC.jpg",
+                    "proyeks\/September2019\/1sV3MTG6LTEfmXykwsnX.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/1.png",
+                "url": "project\/87"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3594099999999996,
+                    110.542
+                ]
+            },
+            "properties": {
+                "id": 88,
+                "title": "Usaha Penggemukan Ternak Sapi Potong Kab Semarang",
+                "nilai_investasi": "Rp 18,862,700,000",
+                "npv": "-",
+                "irr": "-",
+                "bc_ratio": "-",
+                "luas_lahan": "18 Ha",
+                "payback_period": "-",
+                "latar_belakang": "Usaha penggemukan sapi potong merupakan salah satu mata pencaharian masyarakat peternakan yang memiliki prospek yang baik untuk dikembangkan. Banyak masyarakat Kabupaten Semarang mulai dari kalangan peternak kecil, menengah maupun swasta atau komersial meminati usaha ini. Lokasi proyek pengembangan usaha penggemukan ternak sapi potong Mulyorejo Kabupaten Semarang berada di Eks \u2013 Perkebunan Mulyorejo, Desa Barukan, Kecamatan Tengaran. Permintaan daging sapi yang terus meningkat dan belum mampu dipenuhi oleh produksi domestik mampu menjadi peluang besar untuk mengembangkan usaha ini. Populasi ternak sapi potong di Kabupaten Semarang termasuk dalam 10 besar di Jawa Tengah. Selain pasar lokal, usaha penggemukan ternak sapi potong Kabupaten Semarang juga berpeluang di luar kota dengan melihat kebutuhan permintaan daging sapi. Selain itu, usaha lain yang juga dapat dibuat dari usaha ini adalah pemanfaatan kotoran ternak untuk dibuat menjadi pupuk",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Terdapat bangunan dan sumber air sumur bor",
+                "status_kepemilikan": "Pemerintah Daerah Kabupaten Semarang",
+                "skema_investasi": "Joint Venture",
+                "kab_kota": "Kabupaten Semarang",
+                "market": "Potential Project",
+                "sektor": "Agriculture",
+                "cp_nama": "Windarsih SE, MT",
+                "cp_hp": "081228467576",
+                "cp_email": "dpmptspkabsemarang@gmail.com",
+                "cp_alamat": "-",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/IUzmcM1cOCWOtj7n9sku.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/3.png",
+                "url": "project\/88"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2958699999999999,
+                    110.483
+                ]
+            },
+            "properties": {
+                "id": 89,
+                "title": "Pengembangan Pusat Oleh-oleh Salatiga",
+                "nilai_investasi": "Rp 55,642,500,000",
+                "npv": "Rp 18.705.520.085",
+                "irr": "18,75%",
+                "bc_ratio": "1,31",
+                "luas_lahan": "5,5 Ha",
+                "payback_period": "6 Tahun 11 bulan 24 hari",
+                "latar_belakang": "Pusat oleh-oleh Salatiga merupakan tempat yang akan menjadi pusat pemasaran berbagai macam produk UMKM asli Salatiga dan dilengkapi dengan sarana dan prasarana pendukung lainnya. Lokasi yang dipilih adalah di Kelurahan Blotongan dengan luas lahan 5,5 Ha yang saat ini masih berupa tanah kosong dan sawah. Tempat ini perlu dibuat karena melihat berkembangnya UMKM kota Salatiga terutama pada produk makanan khas dan olahan makanan tradisional dan juga permintaan dan minat akan produk tersebut sangat tinggi. Dengan adanya pusat oleh \u2013 oleh yang terletak di tepi jalan Lingkar Salatiga, diharapkan juga mampu menarik lebih banyak wisatawan yang berkunjung karena lokasi yang strategis dan dapat disinggahi oleh bus besar. Karena pelaku UMKM rata-rata sudah siap dengan para pekerjanya masing-masing, maka untuk ketersediaan sumber daya manusia dapat dikatakan sangat memadai.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Kondisi saat ini berupa tanah kosong dan sawah",
+                "status_kepemilikan": "Pemkot Salatiga dan sebagian milik warga",
+                "skema_investasi": "a. Build Operate Transfer maksimal 15 tahun b. Joint Venture\/ Joint Management bisnis.",
+                "kab_kota": "Kota Salatiga",
+                "market": "Prospective Project",
+                "sektor": "Property",
+                "cp_nama": "Henri Wahyu S. (Kasi Promosi DPMPTSP Kota Salatiga)",
+                "cp_hp": "085640005450",
+                "cp_email": "-",
+                "cp_alamat": "Jl. Pemuda 2 Salatiga",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/c7kPnesQFPL55IHoplvF.jpg",
+                    "proyeks\/September2019\/DasOK4vmy3pASLnIXYSf.jpg",
+                    "proyeks\/September2019\/OV1iSVfwhNN9qE9SfiR1.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/2.png",
+                "url": "project\/89"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9987199999999996,
+                    110.468
+                ]
+            },
+            "properties": {
+                "id": 90,
+                "title": "Pembangunan Expo Center Semarang",
+                "nilai_investasi": "Rp 281,707,200,000",
+                "npv": "Rp 61.383.878.155",
+                "irr": "19,46%",
+                "bc_ratio": "1,35",
+                "luas_lahan": "30.000 m2",
+                "payback_period": "5 Tahun 11 bulan 7 hari",
+                "latar_belakang": "Kota Semarang memiliki kegiatan MICE (meeting, incentive, conferences, exhibitions) yang cukup sering dilaksanakan dan bahkan wisatawan yang datang juga terkadang memiliki tujuan untuk melaksanakan kegiatan tersebut. Melihat tingginya minat dalam kegiatan MICE namun kurangnya fasilitas yang memadai untuk penyelenggaraan kegiatan ini secara maksimal, maka Kota Semarang membutuhkan wadah yang dibangun khusus untuk keperluan kegiatan tersebut dengan dilengkapi berbagai fasilitas yang memadai. Diharapkan dengan adanya fasilitas tersebut, dapat meningkatkan penyelenggaraan event besar di Kota Semarang. Dengan memiliki gaya arsitektur yang mencerminkan kemajuan teknologi, fasilitas ini akan diberi nama Expo Center Semarang. Dengan adanya Expo Center Semarang dapat juga mengangkat aktivitas perekonomian di Semarang yang akan berdampak pada sektor pariwisata, ketenagakerjaan dan pendidikan.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Pemilihan lokasi untuk pembangunan expo center adalah di Kecamatan Pedurungan. Saat ini lokasi yang dipilih tersebut masih digunakan sebagai Kantor Kecamatan Pedurungan dan lapangan olah raga.",
+                "status_kepemilikan": "Pemerintah Kota Semarang",
+                "skema_investasi": "Build Operate Transfer minimal 15 tahun",
+                "kab_kota": "Kota Semarang",
+                "market": "Prospective Project",
+                "sektor": "Property",
+                "cp_nama": "Drs. Ulfi Imran Basuki (Kepala Dinas Penanaman Modal & PTSP Kota Semarang)",
+                "cp_hp": "0811299236",
+                "cp_email": "-",
+                "cp_alamat": "Jl. Pemuda 148 Semarang",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/rCJv816qJJuDeIdx6BFR.jpg",
+                    "proyeks\/September2019\/ce3Oik9K0nLKbHoyuUKy.jpg",
+                    "proyeks\/September2019\/qqlAvXxsYZfLmWlMTcW0.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/2.png",
+                "url": "project\/90"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.37242,
+                    110.697
+                ]
+            },
+            "properties": {
+                "id": 91,
+                "title": "Pembangunan Kawasan Industri Klego",
+                "nilai_investasi": "Rp 540,441,799,566",
+                "npv": "-",
+                "irr": "-",
+                "bc_ratio": "-",
+                "luas_lahan": "131,89 Ha",
+                "payback_period": "-",
+                "latar_belakang": "Sektor industri menjadi sektor yang berkembang di Kabupaten Boyolali khususnya pada kawasan pinggiran perkotaan. Perkembangan sektor industri ini mampu memberi peluang kerja bagi masyarakat untuk menjadi tenaga kerja di pabrik dan tenaga kerja di proyek pembangunan kawasan serta memberi peluang usaha pula untuk masyarakat di sekitarnya. Rencana kawasan peruntukan industri akan diarahkan pada kawasan yang tidak berada pada daerah rawan bencana yakni di Desa Blumbang dan Desa Jaten Kecamatan Klego Kabupaten Boyolali. Kawasan ini merupakan salah satu kecamatan di Kabupaten Boyolali yang berfungsi sebagai Pusat Pelayanan Lingkungan dengan potensi lahan untuk pembangunan kawasan industri seluas 52,6 Ha. Sarana dan prasarana yang ada di Desa Blumbang dan Desa Jaten dilengkapi dengan jaringan listrik dan jaringan telekomunikasi yang menjadi kebutuhan dasar bagi pelaku kegiatan industri serta pelabuhan yang menunjang bagi pengiriman bahan baku dan berorientasi keluar daerah dan keluar negeri.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Lahan tersebut saat ini masih berupa tegalan dan kebun milik masyarakat",
+                "status_kepemilikan": "Milik masyarakat",
+                "skema_investasi": "Dikelola oleh swasta murni",
+                "kab_kota": "Kabupaten Boyolali",
+                "market": "Potential Project",
+                "sektor": "Infrastructure",
+                "cp_nama": "Irawan Agung Purnomo, SE (Kepala Seksi Pengembangan, Promosi dan Kerjasama Penanaman Modal)",
+                "cp_hp": "085293146125",
+                "cp_email": "dpmptsp@boyolali.go.id",
+                "cp_alamat": "Kompleks Perkantoan Terpadu Kab. Boyolali, Jl. Merdeka Barat, Kemiri, Mojosongo, Boyolali",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/zUf6VQiQsGnYJ93N0j0l.jpg",
+                    "proyeks\/September2019\/SEUAUCCNyieSFAtaEMqt.jpg",
+                    "proyeks\/September2019\/kZSJpt8bFMerjVwl8BVZ.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/3.png",
+                "url": "project\/91"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5591799999999996,
+                    109.509
+                ]
+            },
+            "properties": {
+                "id": 93,
+                "title": "Pengembangan Industri Gula Semut Organik",
+                "nilai_investasi": "Rp 7,033,850,000",
+                "npv": "-",
+                "irr": "-",
+                "bc_ratio": "-",
+                "luas_lahan": "53 m2",
+                "payback_period": "-",
+                "latar_belakang": "Gula semut saat ini mulai dikenal dan digunakan oleh masyarakat Indonesia yang memperhatikan kesehatan dalam kesehariannya. Hal ini dikarenakan kandungan serat insulin yang berguna memperlambat penyerapan glukosa di tubuh sehingga pas dikonsumsi untuk penderita diabetes. CV Agro Berdikari berniat untuk bekerjasama dengan petani, pengepul dan BUMDes akan melakukan pengembangan industri Gula Semut yang akan dilakukan di Kecamatan Sempor, Kabupaten Kebumen. Kegiatan yang dilakukan nantinya adalah menampung gula semut, penguatan pendampingan produksi gula semut organic (dari hulu sampai hilir) dengan kunjungan ke tempat produksi di rumah \u2013 rumah petani serta pendidikan dan pelatihan petani gula semut",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Kawasan Pedesaan Produk Unggulan Gula Semut ini tidak susah diakses dari berbagai daerah karena terhubung oleh jalan utama yang memiliki lebar 5-7 meter",
+                "status_kepemilikan": "Milik Petani Gula",
+                "skema_investasi": "Kemitraan dengan pola bagi hasil",
+                "kab_kota": "Kabupaten Kebumen",
+                "market": "Potential Project",
+                "sektor": "Manufacture",
+                "cp_nama": "Krima Karmila, S.Sos., M.Eng  (Kasie Pengembangan dan Promosi DPMPTSP Kabupaten Kebumen)",
+                "cp_hp": "0287385925",
+                "cp_email": "-",
+                "cp_alamat": "-",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/6VTcgm9VdyCk3eKH68vf.jpg",
+                    "proyeks\/September2019\/8CtTUczlC4IjlpPcQA35.jpg",
+                    "proyeks\/September2019\/qYqzBRQdSRbMsCcjex1E.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/3.png",
+                "url": "project\/93"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7544500000000003,
+                    110.63200000000001
+                ]
+            },
+            "properties": {
+                "id": 94,
+                "title": "Pengembangan Desa Wisata Rowo Jombor",
+                "nilai_investasi": "Rp 69,411,050,000",
+                "npv": "-",
+                "irr": "-",
+                "bc_ratio": "-",
+                "luas_lahan": "198 Ha",
+                "payback_period": "-",
+                "latar_belakang": "Rowo Jombor merupakan kawasan wisata alam yang masih alami dimana kawasan perairannya dimanfaatkan untuk warung apung yang menyajikan berbagai menu makanan ikan air tawar dan juga digunakan sebagai keramba. Lokasi Rowo Jombor berada di Desa Krakitan, Kecamatan Bayat, Kabupaten Klaten dan memiliki luas \u00b1198 Ha. Dalam pengembanganya, direncanakan pembuatan fasilitas sport center diantaranya wahana pacuan kuda, wahana balapan sepeda motor dan lapangan tenis. Selain itu juga akan dibuat wahana bermain, wisata air dan juga pembangunan menara yang akan menjadi simbol keberadaan Rowo Jombor.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Saat ini kawasan perairan Rowo Jombor dimanfaatkan untuk warung apung dan keramba",
+                "status_kepemilikan": "Pemerintah Provinsi Jawa Tengah",
+                "skema_investasi": "-",
+                "kab_kota": "Kabupaten Semarang",
+                "market": "Potential Project",
+                "sektor": "Tourism",
+                "cp_nama": "Purwanto Agus",
+                "cp_hp": "08170205886",
+                "cp_email": "-",
+                "cp_alamat": "-",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/namtPT6f5pvM1f3Y3z5V.jpg",
+                    "proyeks\/September2019\/Ge3PphWqDhqVmwC7x0QD.jpg",
+                    "proyeks\/September2019\/ZS8NcDuwIIUe8iw1VWbk.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/3.png",
+                "url": "project\/94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4981,
+                    110.209
+                ]
+            },
+            "properties": {
+                "id": 95,
+                "title": "Pembangunan Hotel Bintang 3",
+                "nilai_investasi": "Rp 30,780,000,000",
+                "npv": "Rp 12.133.703.011",
+                "irr": "17,24%",
+                "bc_ratio": "1,44",
+                "luas_lahan": "9.300 m2",
+                "payback_period": "7 tahun 11 bulan.",
+                "latar_belakang": "Pemerintah Kabupaten Magelang menyadari bahwa melalui pembangunan pariwisata, selain dapat meningkatkan pendapatan daerah dan devisa negara juga dapat memperluas kesempatan kerja. Pelaksanaan pembangunan pariwisata dilakukan dengan membangun destinasi wisata dan pendukungnya, tempat- tempat penginapan seperti villa, bungalow, resort, hotel, rumah makan, wisata buatan, wisata alam, wisata budaya dan lain-lain, merupakan aspek penting dalam pengembangan wisata di daerah.\nPembangunan hotel-hotel\/penginapan berkembang dengan pesat, seperti pendirian hotel- hotel baru atau penambahan kamar- kamar pada hotel- hotel yang ada. Kabupaten Magelang memiliki kekayaan wisata yang sangat banyak dan beragam. Salah satu pusat wisata yang sudah terkenal di dunia adalah Candi Borobudur. Candi Borobudur sebagai salah satu perpustakaan dunia yang lokasi sudah tidak asing lagi bagi wisatawan lokal dan internasional, namun keterbatasan hotel dan penginapan yang memadai\/representatif. Maka pembangunan hotel ini diharapkan dapat merubah persepsi publik akan hotel-hotel yang terdapat di Kabupaten Magelang dan dapat menambah wisatawan untuk berkunjung ke salah satu objek wisata milik Indonesia tersebut.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "\u2212 Berupa lahan dan bangunan gedung transito tranmigrasi  \u2212 Lokasi strategi berada dipinggir jalan raya  \u2212 Pemanfaatan saat ini digunakan apabila ada kegiatan yang mengharuskan masyarakat untuk berpindah sementara, selain itu juga pada lokasi ini sering di",
+                "status_kepemilikan": "Pemerintah Kabupaten Magelang",
+                "skema_investasi": "Built Operate Transfer",
+                "kab_kota": "Kabupaten Magelang",
+                "market": "Prospective Project",
+                "sektor": "Property",
+                "cp_nama": "Arif Sunaryo (DPMPTSP); Ganis Hari (BPPKAD); Amirudin Zuhri (Bappeda dan Litbangda)",
+                "cp_hp": "085642073044 (Arif Sunaryo); 081392356958 (Ganis Hari); 081578835117 (Amirudin Zuhri)",
+                "cp_email": "dpmptspkabupatenmagelang@gmail.com",
+                "cp_alamat": "Jl. Soekarno Hatta No. 20 Kota Mungkid (-)",
+                "file_kajian": "[{\"download_link\":\"proyeks\\\/September2019\\\/Dp8YoKEzw8Pk05vAfU2n.pdf\",\"original_name\":\"Kajian lahan transito.pdf\"}]",
+                "file_keuangan": "[{\"download_link\":\"proyeks\\\/September2019\\\/wKdmueC1sjhrRtC6RZRg.xlsx\",\"original_name\":\"file keuangan projek hotel bintang 3 (transito).xlsx\"}]",
+                "fotos": [
+                    "proyeks\/September2019\/96B6GPH2s6huXTFX71KU.jpg",
+                    "proyeks\/September2019\/ziFzorvnA5tEiv3kNFY4.jpg",
+                    "proyeks\/September2019\/ukqVm1k5D9qlkBkCzIRN.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/2.png",
+                "url": "project\/95"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8479599999999996,
+                    109.91500000000001
+                ]
+            },
+            "properties": {
+                "id": 97,
+                "title": "Pengembangan Wisata Pesisir Keburuhan",
+                "nilai_investasi": "Rp 49,250,000,000",
+                "npv": "-",
+                "irr": "-",
+                "bc_ratio": "-",
+                "luas_lahan": "\u00b1 13.320 m\u00b2",
+                "payback_period": "-",
+                "latar_belakang": "Lokasi objek wisata Pantai Keburuhan terletak di Desa Keburuhan Kecamatan Ngombol Kabupaten Purworejo. Akses menuju Pantai Keburuhan dapat dilalui oleh kendaraan roda dua dan juga kendaraan roda empat. Hanya saja untuk kendaraan roda empat memang tidak dapat sampai dekat dengan pantai karena untuk sampai ke pantai harus melewati jembatan dari kayu yang lebarnya hanya 2 m. Letaknya yang dekat dengan Kabupaten Kulon Progo dimana disana sedang dilaksanakan pembangunan New Yogyakarta International Airport diharapkan mampu menjadi peluang untuk meningkatkan wisatawan yang datang ke pantai Keburuhan. Pengembangan objek wisata Pantai Keburuhan meliputi pembangunan waterpark, sarana dan prasarana penginapan, tempat ibadah kios makanan, penanaman bakau, pembangunan dermaga di sungai bagian barat, pembuatan landmark Pantai Keburuhan dan peningkatan kualitas visual area lorong.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Akses menuju pantai sangat mudah, bisa dilalui kendaraan roda 2 dan kendaraan roda 4. Tapi untuk kendaraan roda 4 tidak bisa sampai ke pantainya. Karena sebelum mencapai pantai kita harus melewati jembatan dari kayu yang kira-kira lebarnya hanya 2m. Jika ",
+                "status_kepemilikan": "Pemerintah Kabupaten Purworejo",
+                "skema_investasi": "1) Bagi investor asing dapat berupa: \u2022 Build, Operate, and Transfer Contract (BOT) \/ Bangun Guna Serah (BGS) \u2022 Konsesi dengan masa 12 (dua belas) tahun 2) Bagi investor dalam negeri\/swasta dapat berupa: \u2022 Build, Operate, and Transfer Contract (BOT) \u2022 Kerj",
+                "kab_kota": "Kabupaten Purworejo",
+                "market": "Potential Project",
+                "sektor": "Tourism",
+                "cp_nama": "Supriyatmoko (DPMPTSP Kabupaten Purworejo)",
+                "cp_hp": "085728671226",
+                "cp_email": "adimul_wiratama@yahoo.com",
+                "cp_alamat": "-",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/UQbzBMpMlUAeB7qFgfRm.jpg",
+                    "proyeks\/September2019\/bdaueWhXtZtqIQIvaofi.jpg",
+                    "proyeks\/September2019\/SuRGIp9jPLCMMUTJDhFz.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/3.png",
+                "url": "project\/97"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8562200000000004,
+                    110.036
+                ]
+            },
+            "properties": {
+                "id": 98,
+                "title": "Sistem Penyediaan Air Minum (SPAM) Ibu Kota Kecamatan (IKK) Bagelen",
+                "nilai_investasi": "Rp 29,612,000,000",
+                "npv": "-",
+                "irr": "-",
+                "bc_ratio": "-",
+                "luas_lahan": "-",
+                "payback_period": "-",
+                "latar_belakang": "Pembangunan SPAM IKK Bagelen direncanakan memanfaatkan air baku dari sisi hilir Sungai Bogowonto tepatnya di Kedung Ponggoh yang terletak di Desa Dadirejo, Kecamatan Bagelen. Sungai Bogowonto dipilih karena menurut hasil analisis dari Tim Ahli LKFT UGM menyimpulkan bahwa potensi air yang dapat dimanfaatkan di hilir Sungai Bogowonto sebesar 58  liter per detik. Dengan pengembangan ini diharapkan mampu meningkatkan cakupan pelayanan  air minum di Kabupaten Purworejo khususnya terlebih dahulu untuk Kecamatan Bagelen yang   terdiri dari 5 desa dan Kecamatan Purwodadi yang terdiri dari 12 desa. Selain itu diharapkan juga Sistem Penyedia Air Minum IKK Bagelen ini dapat menangkap peluang sebagai penyedia kebutuhan air minum di kawasan New Yogyakarta International Airport karena letaknya yang hanya berjarak 5 km dari bandara tersebut.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "-",
+                "status_kepemilikan": "PDAM",
+                "skema_investasi": "-",
+                "kab_kota": "Kabupaten Purworejo",
+                "market": "Potential Project",
+                "sektor": "Infrastructure",
+                "cp_nama": "Supriyatmoko (DPMPTSP Kab. Purworejo)",
+                "cp_hp": "085728671226",
+                "cp_email": "adimul_wiratama@yahoo.com",
+                "cp_alamat": "-",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/1QOw5LT5Jwiuft5fyjL0.jpg",
+                    "proyeks\/September2019\/El5K86HnlVnMGEw30ywl.jpg",
+                    "proyeks\/September2019\/pt20DZeT4TEBRcIS8yGo.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/3.png",
+                "url": "project\/98"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.44346,
+                    111.01900000000001
+                ]
+            },
+            "properties": {
+                "id": 99,
+                "title": "Pengembangan Obyek Wisata Kolam Renang Kartika",
+                "nilai_investasi": "Rp 22,000,000,000",
+                "npv": "Rp 38.437.876.153",
+                "irr": "23,67%",
+                "bc_ratio": "1,58",
+                "luas_lahan": "\u00b1 5.839 m2",
+                "payback_period": "5 tahun 10 bulan 21 hari",
+                "latar_belakang": "Kolam Renang Kartika yang berada di Jl. Veteran Desa Kroyo, Kecamatan Karangmalang, Kabupaten Sragen merupakan wisata unggulan di Kabupaten Sragen karena lokasinya yang strategis di pusat kota, kemudahan akses transportasi serta fasilitas yang tersedia. Kolam Renang Kartika yang memiliki luas lahan \u00b15.839 m2 selalu ramai dikunjungi wisatawan dari segala usia mulai dari anak-anak, remaja hingga dewasa. Pengembangan Kolam Renang Kartika nantinya akan mengubah wahana kolam renang menjadi wisata waterpark dengan harapan dapat meningkatkan potensi tumbuhnya peluang usaha kecil dan menengah sehingga mampu meningkatkan pertumbuhan ekonomi khususnya bagi masyarakat sekitar. Fasilitas yang akan ditambah dalam Kolam Renang Kartika adalah gapura pintu masuk yang akan dibuat seperti pintu masuk istana, tempat parkir yang luas, loket tiket masuk, kamar ganti pakaian, kamar mandi dan urinoir, minimarket dan juga kios cinderamata.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Wisata Kolam Renang Kartika sangat mudah diakses dari berbagai penjuru. Lapangan parkir dapat menampung lebih dari 50 mobil. Kolam Renang Kartika dilengkapi dengan arena permainan anak-anak dengan berbagai fasilitas yang tersedia seperti kolam renang ukur",
+                "status_kepemilikan": "Pemerintah Kabupaten Sragen",
+                "skema_investasi": "a) Joint Venture  b) BOT dengan kerjasama maksimal 15 tahun.",
+                "kab_kota": "Kabupaten Sragen",
+                "market": "Prospective Project",
+                "sektor": "Tourism",
+                "cp_nama": "Erwan Adhitya Suddin (Kepala Bidang Penanaman Modal DPMPTSP Kabupaten Sragen)",
+                "cp_hp": "08156737290",
+                "cp_email": "lorenzoerwan@gmail.com; dpmptsp@sragenkab.go.id; srageninvest@gmail.com",
+                "cp_alamat": "Jl. Raya Sukowati No. 255 Sragen, Jawa Tengah 52711",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/pE8Vohy9VLkjbTWPAhib.jpg",
+                    "proyeks\/September2019\/mRdRlAOzEEENuaQXhHh8.jpg",
+                    "proyeks\/September2019\/s1xoONuD4cP9M6PQhQJz.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/2.png",
+                "url": "project\/99"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6992700000000003,
+                    110.81100000000001
+                ]
+            },
+            "properties": {
+                "id": 100,
+                "title": "Pengembangan Desa Wisata Kreatif Kenep",
+                "nilai_investasi": "Rp 4,000,000,000",
+                "npv": "-",
+                "irr": "-",
+                "bc_ratio": "-",
+                "luas_lahan": "1 Ha",
+                "payback_period": "-",
+                "latar_belakang": "Kelurahan Kenep, Kecamatan Sukoharjo, Kabupaten Sukoharjo merupakan salah satu kawasan yang akan dikembangkan menjadi Desa Wisata Kreatif Kenep. Terdapat 6 potensi pariwisata yang dimiliki Kelurahan Kenep diantaranya wisata Bengawan Solo, wisata Kali Mati, wisata heritage, wisata edukasi industri, agro wisata dan wisata kuliner serta handycraft. Kelurahan Kenep dikembangkan menjadi desa wisata kreatif dengan tujuan untuk mengembang desa dan dapat meningkatkan kesejahteraan serta penghasilan masyarakat sehingga juga dapat merubah perilaku masyarakat menjadi lebih bersih, sehat, tertib, aman, ramah, berbudaya dan religius. Pengembangan Desa Wisata Kreatif Kenep diharapkan dapat menarik minat banyak wisatawan mulai dari sektor pendidikan di semua level hingga turis domestik maupun internasional.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Infrastruktur dan prasarana pariwisata masih terbatas",
+                "status_kepemilikan": "Lahan Milik Balai Besar Wilayah Sungai",
+                "skema_investasi": "Build Operate and Transfer (BOT), Build Own Operate and Transfer (BOOT), Build Own and Operate (BOO)",
+                "kab_kota": "Kabupaten Sukoharjo",
+                "market": "Potential Project",
+                "sektor": "Tourism",
+                "cp_nama": "Dra. Sri Hartati (Kabid Penanaman Modal DPMPTSP Kabupaten Sukoharjo)",
+                "cp_hp": "08121502490",
+                "cp_email": "dpmptsp@sukoharjokab.go.id",
+                "cp_alamat": "Jl. Kyai Mawardi No. 1 Sukoharjo 57521",
+                "file_kajian": "[{\"download_link\":\"proyeks\\\/September2019\\\/W526U1mfKp71VsvLy8ha.docx\",\"original_name\":\"Kab Sukoharjo.Proposal Proyek Desa Wisata Kreatif Kenep.docx\"}]",
+                "file_keuangan": "[{\"download_link\":\"proyeks\\\/September2019\\\/jmW10e7hrxxTjO7CMb5O.xlsx\",\"original_name\":\"Analisis Finansial Desa Wisata Kenep Edit.xlsx\"}]",
+                "fotos": [
+                    "proyeks\/September2019\/zb9aGbj2aXRKDQMk7Yrg.JPG",
+                    "proyeks\/September2019\/kUTURmRbL81smPZbwBs1.jpg",
+                    "proyeks\/September2019\/Imbll55V4LTjvNbhemWX.jpg",
+                    "proyeks\/September2019\/rTVHIZ9lGpv9IfTqAy2V.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/3.png",
+                "url": "project\/100"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.73611,
+                    111.19199999999999
+                ]
+            },
+            "properties": {
+                "id": 101,
+                "title": "Pengembangan Desa Wisata Conto",
+                "nilai_investasi": "Rp 6,669,775,000",
+                "npv": "-",
+                "irr": "-",
+                "bc_ratio": "-",
+                "luas_lahan": "Total luasan: \u00b1 1004,5 Ha kawasan budidaya yang dapat dimanfaatkan bagi kepentingan masyarakat meliputi kawasan pemukiman seluas 144,5 Ha, lahan pertanian \/ berupa sawah seluas 88,83 Ha dan tegalan seluas 166,77 Ha.",
+                "payback_period": "-",
+                "latar_belakang": "Desa Wisata Conto terletak di Kecamatan Bulukerto, Kabupaten Wonogiri atau lebih tepatnya di sisi selatan lereng Gunung Lawu. Kondisi lingkungan di Desa Conto terdiri dari perbukitan yang sedikit terjal dan perbukitan berlereng terjal. Secara umum kawasan ini digunakan sebagai lahan perkebunan, lahan pertanian, tanaman keras tahunan, tegalan dan pemukiman. Saat ini telah dibangun Padepokan Soko Langit sebagai pusat destinasi wisata Conto. Selain itu juga terdapat fasilitas gardu pandang, flying fox, gasibu, kolam renang yang masih dalam tahap konstruksi, kebun buah dan kebun akar wangi.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Telah dibangun Padepokan Soko Langit Sebagai Pusat Destinasi Wisata Conto Fasilitas: Gardu Pandang (sunset, sunrise dan foto selfie) Flying Fox Gasibu Kolam Renang (Tahap Konstruksi) Kebun Buah Kebun Akar Wangi.  Kondisi jalan dalam kodisi layak untuk di ",
+                "status_kepemilikan": "-",
+                "skema_investasi": "Bumdes, swasta",
+                "kab_kota": "Kabupaten Wonogiri",
+                "market": "Potential Project",
+                "sektor": "Tourism",
+                "cp_nama": "Purwadi, SE, ME (Kabid Ekonomi dan Pengembangan Wilayah); Sriyanto, SE., ME. (DPMPTSP Wonogiri)",
+                "cp_hp": "082225062088 (Purwadi); 085647882858 (Sriyanto)",
+                "cp_email": "bidekowonogiri@gmail.com dpmptsp.wonogiri@gmail.com",
+                "cp_alamat": "-",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/EGDBYOZ1fAPbHsM0cqyS.jpg",
+                    "proyeks\/September2019\/JmBmTS1oXOKnFHJYOZNK.jpg",
+                    "proyeks\/September2019\/PQiQt0NM4oyrJ9xa88Yt.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/3.png",
+                "url": "project\/101"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4762000000000004,
+                    110.21899999999999
+                ]
+            },
+            "properties": {
+                "id": 102,
+                "title": "Pemanfaatan Lahan dan Bangunan Eks Magelang Theater",
+                "nilai_investasi": "Rp 197,187,157,923",
+                "npv": "Rp 3.048.942.967",
+                "irr": "13,06%",
+                "bc_ratio": "-",
+                "luas_lahan": "4.750 m2",
+                "payback_period": "11 Tahun",
+                "latar_belakang": "Kota Magelang memiliki sebuah aset terbengkalai yang letaknya cukup strategis karena berada di pusat kota tepatnya di jalan A. Yani No. 6, Kelurahan Panjang, Kecamatan Magelang Utara. Lahan seluas \u00b1 4.750 m2 ini sebelumnya digunakan sebagai bioskop\/ theatre, namun saat ini akan dilakukan pengembangan yang akan dilakukan di tempat tersebut diantaranya untuk dimanfaatkan menjadi mall, theatre, hotel dan condotel. Letaknya yang berada di pusat kota dan berada di jalan utama memiliki tingkat kemudahan karena banyaknya angkutan yang melintas di jalur tersebut dan tingkat keramaian yang tinggi. Hal ini merupakan salah satu upaya untuk mengoptimalisasi aset terbengkalai untuk dapat digunakan secara tepat. Diharapkan nantinya perkembangan kawasan ini dapat memberikan potensi untuk berbagai macam produk properti di sekitarnya.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Saat ini masih berupa bangunan Bioskop Magelang Theatre, tetapi pemanfaatan bangunan sudah tidak layak\/terbengkalai.",
+                "status_kepemilikan": "Pemerintah Kota Magelang",
+                "skema_investasi": "Build Operate Transfer",
+                "kab_kota": "Kota Magelang",
+                "market": "Prospective Project",
+                "sektor": "Property",
+                "cp_nama": "Sri Asih Widiyastuti, S.H.,M.H",
+                "cp_hp": "08122769906",
+                "cp_email": "dpmptspmglkota@gmail.com",
+                "cp_alamat": "Jl. Veteran No.7, Magelang, Kec. Magelang Tengah, Kota Magelang, Jawa Tengah 56117",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/zsb3yEb1DrJtRHu7d8Wv.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/2.png",
+                "url": "project\/102"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2055400000000001,
+                    109.893
+                ]
+            },
+            "properties": {
+                "id": 103,
+                "title": "Pengembangan Destinasi Wisata Telaga Merdada",
+                "nilai_investasi": "Rp 82,412,208,000",
+                "npv": "NPV df 14%, 10th: Rp 1.777.624.264",
+                "irr": "14.46%",
+                "bc_ratio": "1.02",
+                "luas_lahan": "170.000 m2",
+                "payback_period": "5 tahun 2 bulan 7 hari",
+                "latar_belakang": "Telaga Merdada terletak di Dataran Tinggi Dieng tepatnya di Desa Karang Tengah, Kecamatan Batur dengan jarak \u00b1 55 km dari pusat Pemerintahan Kabupaten Banjarnegara. Kondisi wisata Telaga Merdada saat ini sudah dapat dikunjungi oleh wisatawan, namun fasilitas yang ada masih tidak lengkap. Saat ini hanya terdapat pemandangan berupa telaga dan pemandangan alam di sekitarnya. Pengembangan wisata Telaga Merdada dikonsepkan pada tiga wahana yaitu wahana skywalk, adventure tourism dan ecotourism. Jumlah kunjungan wisatawan ke Dataran Tinggi Dieng pada tahun 2017 mencapai 1.584.477 dan jumlah ini merupakan peningkatan hingga 100% dibandingkan kunjungan pada tahun 2012. Hal tersebut sangat menjadi potensi yang baik apabila Telaga Merdada dikembangkan menjadi wisata air yang memadukan unsur wisata hiburan, wisata adventure, wisata pendidikan dan wisata budaya yang dapat dinikmati wisatawan nusantara dari kalangan keluarga, remaja, dewasa dan orang tua serta wisatawan mancanegara.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Saat ini sudah bisa dikonsumsi oleh wisatawan namun masih terbatas pada produk inti saja berupa telaga dan pemandangan alam",
+                "status_kepemilikan": "Pemerintah Daerah Kabupaten Banjarnegara, PT.Dieng Jaya, Perhutani, dan masyarakat",
+                "skema_investasi": "Build Operate Transfer dengan kerjasama maksimal 30 tahun",
+                "kab_kota": "Kabupaten Banjarnegara",
+                "market": "Prospective Project",
+                "sektor": "Tourism",
+                "cp_nama": "Ir. Abdul Suhendi (Kepala DPMPTSP Kabupaten Banjarnegara)",
+                "cp_hp": "081327110831",
+                "cp_email": "perijinan_terpadu@banjarnegarakab.go.id",
+                "cp_alamat": "Jln. Let.Jend.Suprapto No.234 A",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/YzUVwKH2jMzo7SZbTKWM.jpg",
+                    "proyeks\/September2019\/3QPMfq9XgIoAw6iur8j9.jpg",
+                    "proyeks\/September2019\/wvGpygx6F8Oo9E2WC6jm.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/2.png",
+                "url": "project\/103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4865599999999999,
+                    109.295
+                ]
+            },
+            "properties": {
+                "id": 104,
+                "title": "Rencana Pembangunan Tower Kab. Banyumas",
+                "nilai_investasi": "Rp 2,381,600,000,000",
+                "npv": "-",
+                "irr": "-",
+                "bc_ratio": "-",
+                "luas_lahan": "600 Ha",
+                "payback_period": "-",
+                "latar_belakang": "Pemerintah Kabupaten Banyumas merencanakan pembangunan tower yang akan dibuat di kawasan Kota Baru tepatnya di Kecamatan Kalibagor dan Kecamatan Patikraja. Kawasan Kota Baru ini memiliki luas \u00b1600 Ha dan diharapkan mampu menjadi ruang terbuka hijau di Kabupaten Banyumas. Bangunan menara yang akan dibuat di kawasan Kota Baru rencananya memiliki tinggi 200 meter dari permukaan tanah dengan luas dasar bangunan termasuk basement seluas 2,25 Ha. Bangunan tower ini akan berisi 50 lantai dengan 5 lantai basement dan 45 lantai dak yang memiliki fungsi bangunan sebagai menara telekomunikasi, pertemuan bisnis, museum sejarah Jawa, tempat display, menara pandang Purwokerto dan pentas budaya. Bangunan tower ini nantinya akan menjadi City Branding Kabupaten Banyumas yang memiliki fungsi sebagai ikon Banyumas, pengembangan Kota Baru, sarana rekreasi, pariwisata, budaya, hiburan, iptek dan pendidikan serta menjadi sarana perdagangan dan event dari berbagai stakeholder.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Lahan Kosong dan persawahan milik warga",
+                "status_kepemilikan": "Milik warga",
+                "skema_investasi": "swasta murni",
+                "kab_kota": "Kabupaten Banyumas",
+                "market": "Potential Project",
+                "sektor": "Property",
+                "cp_nama": "Hernowo (BAPPEDALITBANG Kabupaten Banyumas)",
+                "cp_hp": "082243422982",
+                "cp_email": "-",
+                "cp_alamat": "Jl. Prof Suharso Purwokerto",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": null,
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/3.png",
+                "url": "project\/104"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9490600000000002,
+                    109.866
+                ]
+            },
+            "properties": {
+                "id": 105,
+                "title": "Pengembangan Argowisata Clapar",
+                "nilai_investasi": "Rp 52,309,275,000",
+                "npv": "Rp 111.796.957.183",
+                "irr": "26,41%",
+                "bc_ratio": "1,87",
+                "luas_lahan": "8 Ha",
+                "payback_period": "4 tahun 9 bulan 13 hari",
+                "latar_belakang": "Agrowisata Clapar berlokasi di Desa Clapar, Kecamatan Subah, Kabupaten Batang dan dilalui oleh Jalan Nasional Pantai Utara. Kawasan Agrowisata Clapar merupakan kawasan yang memiliki bentuk lokasi yang memanjang dan didominasi dengan lahan perkebunan dengan beragam varietas tanaman seperti durian, manggis, pisang, jeruk, mangga dan aneka buah-buahan lainnya. Adapun fasilitas pendukung dalam Agrowisata Clapar di antaranya laboratorium, greenhouse hydroponic, showroom, kamar mandi dan berbagai fasilitas lainnya. Rencanakan untuk pengembangan Kawasan Agrowisata Clapar meliputi penyesuaian dengan lahan yang telah terkonsep, fasilitas rest area, fasilitas zona agrowisata seperti tempat produksi pembibitan tanaman unggul, taman kebun jeruk,caf\u00e9, souvenir shop, screen house untuk pembibitan dan pembuatan pupuk. Selain itu juga direncanakan pembuatan wahana permainan di antaranya flying fox, taman labirin, seluncuran, wisata edukasi, camping ground dan taman bermain.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Kondisi perkebunan yang umumnya menarik namun jarang dikunjungi pengunjung atau wisatawan, salah satu penyebabnya adalah karena fasilitas umum berupa jalan utama atau pintu masuk yang kurang mencerminkan sebuah destinasi tujuan wisata. Letaknya yang berad",
+                "status_kepemilikan": "Dinas Pertanian Tanaman Pangan dan Peternakan, Kabupaten Batang sekaligus bagian dari Unit Pelaksana Teknis Dinas (UPTD) Balai Benih Hortikultura (BBH) Clapar, Kecamatan Subah.",
+                "skema_investasi": "Build Operate Transfer dengan kerjasama maksimal 15 tahun",
+                "kab_kota": "Kabupaten Batang",
+                "market": "Prospective Project",
+                "sektor": "Tourism",
+                "cp_nama": "Badan Perencanaan Penelitian dan Pengembangan (Bapelitbang) Kabupaten Batang; Dinas Penanaman Modal Perijinan Terpadu Satu Pintu (DPMPTSP) Kabupaten Batang",
+                "cp_hp": "(0285) 391131 - 392131 (Bappenlitbang); (0285) 4493081 (DPMPTSP NAKER)",
+                "cp_email": "bappeda@mail.batangkab.go.id bpmpt@mail.batangkab.go.id",
+                "cp_alamat": "Jl. RA Kartini Nomor 1 Batang Provinsi Jawa Tengah (Bapelitbang) Jl. Urip Sumoharjo No. 13 Batang 51212 (DPMPTSP)",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/lvN5kBf4ksAbQnniSVtJ.jpg",
+                    "proyeks\/September2019\/0t2pSVIPTHCVgNQsjHwZ.jpg",
+                    "proyeks\/September2019\/5ClkQpC053wyqQzHbBlE.jpg",
+                    "proyeks\/September2019\/KPux3YnfryNdZrcMEjUE.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/2.png",
+                "url": "project\/105"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8170299999999999,
+                    109.004
+                ]
+            },
+            "properties": {
+                "id": 106,
+                "title": "Pengembangan Objek Wisata Pulau Cemara",
+                "nilai_investasi": "Rp 4,180,010,000",
+                "npv": "15.26% untuk 10 tahun = Rp 3.288.177.221",
+                "irr": "26,90%",
+                "bc_ratio": "1,79",
+                "luas_lahan": "86 Ha",
+                "payback_period": "5 tahun 4 bulan 21 hari",
+                "latar_belakang": "Objek Wisata Pulau Cemara memiliki daya tarik pulau burung, pantai, kuliner, camping ground, pesona sunset dan juga spot selfi. Kelengkapan fasilitas yang dimiliki Pulau cemara di antaranya pembangkit listrik tenaga surya, sumur artetis, sanitasi, dan transportasi menggunakan perahu mesin. Adapula fasilitas lainnya yang dapat disewa yakni banana boat dan ATV serta terdapat juga lokasi yang digunakan untuk memancing. Jumlah pengunjung Pulau Cemara pada tahun 2018 mencapai 72.873 yang selalu ramai pada libur Hari Raya Idul Fitri dan juga Libur Tahun Baru. Tiket masuk untuk hari biasa dan hari libur adalah Rp 15.000,00 per orang dengan parkir mobil sebesar Rp 5.000,00 dan Rp 2.000,00 untuk parkir kendaraan bermotor. Pengembangan objek wisata Pulau Cemara meliputi pembuatan 2 dermaga, gapura, jembatan, tracking, 2 gazebo, mushola, kamar mandi, gardu pandang dan wahana untuk banana boat, ATV, jet ski air serta perahu. Selain itu juga akan dibuat kerambah pemancingan, wahana permainan anak, kolam ikan, tempat parker, posko kesehatan, kantor pengelola, kantin, taman, kios cinderamata dan mobil promosi.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Kondisi objek wisata Pulau Cemara masih belum mempunyai fasilitas dan sarana prasarana yang memadai",
+                "status_kepemilikan": "Pokdarwis Pulau Cemara",
+                "skema_investasi": "Kerjasama Sewa-Tambah dan Guna maksimal 10 tahun",
+                "kab_kota": "Kabupaten Brebes",
+                "market": "Prospective Project",
+                "sektor": "Tourism",
+                "cp_nama": "Saefudin, SE, M. Si",
+                "cp_hp": "0816687981",
+                "cp_email": "saefudin4272@gmail.com",
+                "cp_alamat": "-",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/Wuk6eucRZGxqQSQTCaGT.jpg",
+                    "proyeks\/September2019\/nqVSoWa1tFgZ61xHRuGr.jpg",
+                    "proyeks\/September2019\/dwhtBV06TIurWVoETlz8.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/2.png",
+                "url": "project\/106"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4367900000000002,
+                    108.90900000000001
+                ]
+            },
+            "properties": {
+                "id": 107,
+                "title": "Pengembangan Kawasan Terpadu Kambing Karangpucung",
+                "nilai_investasi": "Total Rp 159.976.576.108: Dairy goat cultivation area Rp 97.213.602.800 and Goat milk processing factory Rp 62.762.973.308",
+                "npv": "Budidaya Kambing Perah NPV df 14%: Rp 5.261.883.861; Pabrik Pengolahan Susu Kambing  Rp 36.404.824.520",
+                "irr": "Budidaya Kambing Perah 15%; Pabrik Pengolahan Susu Kambing 29%",
+                "bc_ratio": "-",
+                "luas_lahan": "109 Ha",
+                "payback_period": "Budidaya Kambing Perah 5 tahun 10 bulan 14 hari; Pabrik Pengolahan Susu Kambing 3 tahun 5 bulan 12 hari",
+                "latar_belakang": "Pengembangan Kawasan Terpadu Kambing Pengembangan Kawasan Terpadu Kambing Karangpucung merupakan suatu upaya mengembangkan sebuah peternakan kambing yang selama ini hanya difokuskan untuk kegiatan budidaya penggemukan guna diambil dagingnya yang juga akan ditambahkan fase penanganan pasca panennya yaitu dengan mendirikan industri olahan susu kambing. Susu kambing memang belum sepopuler susu sapi, namun keberadaan susu kambing juga memiliki pangsa pasar tersendiri yang masih sangat potensial untuk dikembangkan. Dalam Kawasan Terpadu Kambing Karangpucung nantinya akan ada beberapa kegiatan, diantaranya proses budidaya (indukan dan pembesaran), penyediaan pakan hingga proses pengolahan susu siap konsumsi. Dipilihnya jenis Kambing Karangpucung karena pada lokasi ini terdapat salah satu jenis kambing yang dapat menghasilkan susu dengan kualitas lebih tinggi jika disilangkan dengan jenis Kambing Saanen atau dikenal dengan jenis Kambing Sapera.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Pemeliharaan oleh masyarakat setempat saat ini masih dilakukan dengan sistem tradisional. Fokus pemeliharaannya diarahkan ke budidaya pembesaran untuk diambil dagingnya. Usaha peternakan kambing yang selama ini hanya berfokus pada produksi daging, akan le",
+                "status_kepemilikan": "Lahan milik masyarakat",
+                "skema_investasi": "Build Operate Transfer maksimal 15 tahun",
+                "kab_kota": "Kabupaten Cilacap",
+                "market": "Prospective Project",
+                "sektor": "Agriculture",
+                "cp_nama": "Dian Arinda Murni, SH, MM (DPMPTSP Kabupaten Cilacap)",
+                "cp_hp": "081126083",
+                "cp_email": "sekretariat.bpmpt.cilacap@gmail.com",
+                "cp_alamat": "Jl. Dr. Sutomo No. 2 Cilacap",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/6fS0WEXAuhM1XJWeZvEj.jpeg",
+                    "proyeks\/September2019\/pjF2dknl5gCyeJdHXnbf.jpg",
+                    "proyeks\/September2019\/TYp0TvI6btpXi6MKECMV.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/2.png",
+                "url": "project\/107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.89039,
+                    109.67700000000001
+                ]
+            },
+            "properties": {
+                "id": 108,
+                "title": "Pengembangan Akomodasi dan Perhotelan",
+                "nilai_investasi": "Rp 5.634.552.000",
+                "npv": "12%",
+                "irr": "13,67%",
+                "bc_ratio": "1,119",
+                "luas_lahan": "6.790 m\u00b2",
+                "payback_period": "9 tahun 2 bulan",
+                "latar_belakang": "Perkembangan industri Kabupaten Pekalongan yang semakin meningkat harus didampingi dengan akomodasi untuk penunjangnya. Salah satu akomodasi yang baik untuk dikembangkan ialah penginapan. Perkembangan akomodasi hotel di Kabupaten Pekalongan terbilang tidak terlalu banyak dibandingkan kota besar atau kota tujuan wisata lainnya. Diharapkan dengan dikembangkannya lebih banyak hotel maka dapat mendorong pertumbuhan pariwisata daerah. Lokasi yang dipilih untuk pengembangan hotel berada di Eks Pendopo bertempat di Jl. Nusantara No. 1 Kota Pekalongan dan juga Eks Gedung DPU Kabupaten Pekalongan di Jl. Bahurekso No. 1 Kajen. Lokasi tersebut dipilih karena memiliki area yang cukup luas dan juga strategis dengan lingkungan sekitar yang menjadi pusat keramaian di wilayah Kota Pekalongan seperti alun \u2013 alun Kota Pekalongan, Masjid Agung Kauman Pekalongan, Matahari Department Store, hotel dan 2 km dari Pasar Grosir Batik Setono.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Tanah dan bangunan Eks DPU kabupaten Pekalongan",
+                "status_kepemilikan": "Pemerintah Kabupaten Pekalongan",
+                "skema_investasi": "Pola Manajemen (swasta murni atau kemitraan) Sistem pengelolaan, Kelembagaan ",
+                "kab_kota": "Kabupaten Pekalongan",
+                "market": "Potential Project",
+                "sektor": "Property",
+                "cp_nama": "DPMPTSP Kabupaten Pekalongan",
+                "cp_hp": "0285 381992",
+                "cp_email": "dpmptspnaker.pekalongankab@gmail.com",
+                "cp_alamat": "Jalan Sindoro No. 9 Kajen",
+                "file_kajian": "[{\"download_link\":\"proyeks\\\/September2019\\\/q76IuoKQjUAgYDjndaZV.docx\",\"original_name\":\"BUSNESS PLAN AKOMODASI revisi pagi.docx\"}]",
+                "file_keuangan": "[{\"download_link\":\"proyeks\\\/September2019\\\/1izSSK2TCba5SFj73Lml.docx\",\"original_name\":\"ESTIMASI INVESTASI eks DPU JL. BAHUREKSO.docx\"}]",
+                "fotos": [
+                    "proyeks\/September2019\/iZz4ckIEF1MofbsSYf0F.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/3.png",
+                "url": "project\/108"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.89039,
+                    109.67700000000001
+                ]
+            },
+            "properties": {
+                "id": 109,
+                "title": "Pengembangan Akomodasi dan Perhotelan di Eks Pendopo",
+                "nilai_investasi": "Rp 91.385.500.000",
+                "npv": "12% atau senilai Rp 10.087.070.000,-",
+                "irr": "13,67%",
+                "bc_ratio": "1,119",
+                "luas_lahan": "26.630 m\u00b2. ",
+                "payback_period": "9 tahun 2 bulan",
+                "latar_belakang": "Eks Pendopo Kabupaten Pekalongan berada di wilayah kota Pekalongan tepatnya di Jalan Nusantara Nomor 1 Pekalongan menjadi lokasi yang potensial untuk pendirian hotel karena kondisi lingkungan sekitar sudah terbentuk sebagai pusat keramaian di wilayah Pekalongan. Lingkungan tersebut juga memiliki aksesibilitas yang tinggi dan berdekatan dengan objek \u2013 objek vital seperti alun\u2013alun Kota Pekalongan, Masjid Agung Kauman Pekalongan, Matahari Departement Store, hotel dan \u00b1 2 km dari Pasar Grosir Batik Setono. Selain itu lokasi asset hanya berjarak \u00b1 2 km dari stasiun kereta api Kota Pekalongan dan \u00b1 4 km terminal bus Kota Pekalongan. Dengan kondisi tersebut dalam jangka pendek maupun jangka panjang, prospek usaha memiliki kesempatan untuk berkembang, seiring dengan kondisi sektor perhotelan yang secara regional di Kota Pekalongan yang terus berkembang.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Berupa tanah dan bangunan eks Pendopo Kabupaten Pekalongan Jalan Nusantara Nomor 1 Pekalongan",
+                "status_kepemilikan": "Pemerintah Kabupaten Pekalongan",
+                "skema_investasi": "Pola Manajemen (swasta murni atau kemitraan) Sistem pengelolaan, Kelembagaan ",
+                "kab_kota": "Kabupaten Pekalongan",
+                "market": "Potential Project",
+                "sektor": "Property",
+                "cp_nama": "DPMPTSP Kabupaten Pekalongan",
+                "cp_hp": "0285 381992",
+                "cp_email": "dpmptspnaker.pekalongankab@gmail.com",
+                "cp_alamat": "Jalan Sindoro No. 9 Kajen",
+                "file_kajian": "[{\"download_link\":\"proyeks\\\/September2019\\\/5N1WvH2GQfW89mLj1Cmy.docx\",\"original_name\":\"BUSNESS PLAN AKOMODASI revisi pagi.docx\"}]",
+                "file_keuangan": "[{\"download_link\":\"proyeks\\\/September2019\\\/Ymnn1prLuINKg7k1QjLC.docx\",\"original_name\":\"ESTIMASI BIAYA INVESTASI.docx\"}]",
+                "fotos": [
+                    "proyeks\/September2019\/8OLBrw0CTA2squENMwfi.jpg",
+                    "proyeks\/September2019\/hBb9fbhYs3dX8DDbWGm2.jpg",
+                    "proyeks\/September2019\/BJDR1GAjO20zm1zQPQL1.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/3.png",
+                "url": "project\/109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2902899999999997,
+                    109.285
+                ]
+            },
+            "properties": {
+                "id": 110,
+                "title": "Pengembangan Bumi Shambara",
+                "nilai_investasi": "Rp 63,646,000,000",
+                "npv": "NPV df 15.26%, 10 tahun: Rp 104.713.398.738",
+                "irr": "22,90%",
+                "bc_ratio": "1,36",
+                "luas_lahan": "183.470 m2",
+                "payback_period": "3 tahun 2 bulan 7 hari",
+                "latar_belakang": "Bumi Shambara menawarkan konsep wisata alam, sejarah dan budaya dan direncanakan menjadi Gerbang Purbalingga. Diharapkan pengembangan Bumi Shambara nantinya dapat menarik minat wisatawan mancanegara yang umumnya datang dari Australia, Amerika Serikat, Kanada, dan Eropa Barat. Pengembangan Bumi Shambara bersifat melindungi dan mendukung fungsi kawasan hutan lindung serta diharapkan mampumemberikan manfaat secara ekonomi bagi masyarakat setempat. Sektor yang dapat meningkatkan potensi ekonomi masyarakat sekitar dengan dikembangkannya Bumi Shambara antara lain pertunjukan seni, pengusaha souvenir, pengusaha kuliner dan homestay. Potensi pada kawasan Bumi Shambara yang akan dikembangkan meliputi situasi dan kondisi fisik, kearifan lokal dan pusaka, budaya tradisi masyarakat, flora dan fauna, keindahan panorama serta memperhatikan posisi yang strategis. Pengembangan lokasi dibagi dalam beberapa zona, di antarnya lahan parkir, pelataran Bumi Shambara, Pasar Purba dan Museum Batu, Panggung Budaya, Purba Resort, Taman Purba, dan kawasan agrowisata Kopi Purbalingga.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Di Purbalingga sendiri wisata, wisata buatan seperti Owabong, Sanggaluri, dan Pancuran Mas telah menjadi magnet bagi turis domestik, namun belum bisa menarik turis mancanegara. Karena itu dengan hadirnya \u201cBumi Shambara\u201d dan Golaga dalam kemasan versi baru",
+                "status_kepemilikan": "Lahan milik negara",
+                "skema_investasi": "Build Operate Transfer maksimal 15 tahun",
+                "kab_kota": "Kabupaten Purbalingga",
+                "market": "Prospective Project",
+                "sektor": "Tourism",
+                "cp_nama": "Ato Susanto, Ap, M.Si (Kepala DPMPTSP Kabupaten Purbalingga)",
+                "cp_hp": "0281 \u2013 891235",
+                "cp_email": "investasipurbalingga@gmail.com",
+                "cp_alamat": "Jl. Mayjend Sungkono km.2 Kalimanah, Purbalingga",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/LbBpDh0NsspxOigglsl0.jpg",
+                    "proyeks\/September2019\/9YVqFrrApOZxL8XhAUKf.jpg",
+                    "proyeks\/September2019\/1DoT6wTNf0HlNDCxCTu9.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/2.png",
+                "url": "project\/110"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2195299999999998,
+                    109.126
+                ]
+            },
+            "properties": {
+                "id": 111,
+                "title": "Pengembangan Wisata Curug Cantel",
+                "nilai_investasi": "Rp 8,910,750,000",
+                "npv": "NPV df 15.26%, 15 tahun: Rp 12.604.314.093",
+                "irr": "18,79%",
+                "bc_ratio": "1,24",
+                "luas_lahan": "20 Ha",
+                "payback_period": "6 tahun 2 bulan 19 hari",
+                "latar_belakang": "Kabupaten Tegal memiliki potensi wisata alam yaitu kawasan wisata Curug Cantel yang memiliki flora dan fauna yang masih terjaga habitatnya serta panorama alam dan juga air terjun yang menjadi inti dari tujuan wisata. Memiliki luas 20 hektar, kawasan wisata Curug Cantel juga memiliki pertanian lahan basah dan hortikultura, hutan pinus, pemukiman pedesaan Sigedong, pemandangan dari kawasan yang berbukit \u2013 bukit serta pemandangan hijau dedaunan dengan suhu yang dingin. Kawasan Curug Cantel terletak di Pedukuhan Kalipedes, Desa Segendong, Kecamatan Bumijawa, Kabupaten Tegal yang berada di perbatasan antara Kabupaten Tegal dan Kabupaten Brebes dan terletak di tepi jalan utama jalan raya Kalipedes. Secara umum kondisi kawasan wisata Curug Cantel beriklim tropis, namun karena letaknya yang berada di sekitar lereng gunung maka membuat kawasan ini mempunyai suhu yang lebih sejuk. Pengunjung yang datang hanya akan dikenai biaya tiket masuk sebesar Rp 5.000,00 per orang.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Kawasan Curug Cantel mempunyai kondisi fisiografis merupakan kawasan perbukitan",
+                "status_kepemilikan": "Milik warga sekitar",
+                "skema_investasi": "Kerjasama Sewa-Tambah dan Guna maksimal 10 tahun Build; Operate Transfer maksimal 15 tahun",
+                "kab_kota": "Kabupaten Tegal",
+                "market": "Prospective Project",
+                "sektor": "Tourism",
+                "cp_nama": "Reza Bagus A.P. SE (DPMPTSP Kabupaten Tegal)",
+                "cp_hp": "085866900009",
+                "cp_email": "dpmptspslawi@gmail.com",
+                "cp_alamat": "Jl. Gatot Subroto No. 5 Slawi",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/FlBRiijXcu4YptaETWq2.jpg",
+                    "proyeks\/September2019\/LoJIUbEGnnokEGPmIn2O.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/2.png",
+                "url": "project\/111"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8584199999999997,
+                    109.423
+                ]
+            },
+            "properties": {
+                "id": 112,
+                "title": "Pembangunan Docking Kapal TPI Asemdoyong",
+                "nilai_investasi": "Rp 17,674,102,000",
+                "npv": "NPV df 15.26%, 10 tahun: Rp 2.473.700.018",
+                "irr": "18,30%",
+                "bc_ratio": "1,14",
+                "luas_lahan": "10.000 m2",
+                "payback_period": "5 tahun 1 bulan 2 hari",
+                "latar_belakang": "Salah satu upaya dalam mengembangkan kawasan pesisir di Kabupaten Pemalang adalah dengan mengembangkan sarana dan prasarana perikanan karena pada tahun 2017 tercatat \u00b1 14.945 orang berprofesi sebagai nelayan dengan 10.406 orang di antaranya berstatus pandega. Melihat pertumbuhan kapal nelayan yang terus meningkat setiap tahunnya, pembangunan docking kapal akan menjadi potensi yang baik untuk dilakukan. Lokasi yang dipilih untuk pembangunan docking kapal adalah di TPI Asemdoyong. Lokasi ini dipilih karena TPI Asemdoyong adalah tempat pendaratan dan pemasaran ikan terbesar kedua yang mencapai 7.639 ton. Sarana Produksi yang dimiliki nelayan pada umumnya adalah motor tempel dengan jumlah mencapai 1.582 unit, kapal motor berjumlah 88 unit. Melihat Jumlah tersebut sangat perlu apabila di buat docking kapal TPI Asemdoyong yang dapat digunakan untuk para nelayan dan juga dapat meningkatkan perekonomian daerah.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Pertumbuhan jumlah kapal nelayan yang terus meningkat setiap tahun, sementara prasarana yang dapat digunakan nelayan untuk mereparasi dan memperbaiki kapal di Kabupaten Pemalang sampai saat ini belum tersedia",
+                "status_kepemilikan": "Milik masyarakat\/pribadi",
+                "skema_investasi": "Build Operate Transfer maksimal 15 tahun",
+                "kab_kota": "Kabupaten Pemalang",
+                "market": "Prospective Project",
+                "sektor": "Manufacture",
+                "cp_nama": "Dinas Penanaman Modal Pelayanan Terpadu Satu Pintu Kabupaten Pemalang",
+                "cp_hp": "(0284) 323541",
+                "cp_email": "kpptpml@gmail.com",
+                "cp_alamat": "Jl. Kyai Makmur No. 11 Pemalang 52312",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/DcF4iCNtwydaRNqEz3t8.jpg",
+                    "proyeks\/September2019\/OPEzR4NmUxTbLrpyFa8S.jpg",
+                    "proyeks\/September2019\/OfdtYZWr19NLRguBBITA.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/2.png",
+                "url": "project\/112"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8704299999999998,
+                    109.682
+                ]
+            },
+            "properties": {
+                "id": 113,
+                "title": "Proyek Pengembangan Pekalongan Mangrove Park",
+                "nilai_investasi": "Rp 13.964.900.000 (22% Pemerintah Kota, 38% Swasta, 40% CSR)",
+                "npv": "-",
+                "irr": "-",
+                "bc_ratio": "-",
+                "luas_lahan": "Luas Pusat Informasi Mangrove \u00b1 5 Ha (bagian dari Mangrove Park). Ke depan diharapkan dapat dikembangkan sampai dengan 25",
+                "payback_period": "-",
+                "latar_belakang": "Pekalongan Mangrove Park adalah pergantian nama dari PIM (Pusat Informasi Mangrove). Kawasan ini merupakan tempat wisata yang secara fisik memiliki alam yang cukup bagus untuk dikembangkan dan juga memiliki tujuan edukasi yang sangat berpotensi. Hanya saja minimnya fasilitas yang diberikan membuat Pekalongan Mangrove Park memiliki pengunjung yang masih jauh dari kata ramai karena kegiatan wisata yang dilakukan juga tidak membutuhkan waktu yang lama. Kegiatan yang biasa dilakukan pengunjung diantaranya membaca buku, melihat miniatur kapal, berfoto, istirahat atau berteduh, jalan- jalan, melihat pemandangan dari ketinggian dan berkeliling hutan mangrove. Rencana untuk pengembangan Pekalongan Mangrove Park ini adalah diperbaikinya fasilitas pintu gerbang wisata, tourist information center, mangrove information center, jogging track dan gazebo. Sedangkan untuk penambahan fasilitas akan dilakukan pembuatan area parkir, seafood culinary, amphitheater seni dan budaya serta perahu wisata. Fasilitas yang diperbaiki dan ditambah nantinya akan saling mendukung untuk kegiatan wisatawan yang berkunjung ke Pekalongan Mangrove Park.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Namun untuk fisik dan fasilitas yang di bangun masih sangat minim, pembangunan belum terselesaikan tetapi fasilitas yang ada justru banyak yang rusak. Fasilitas yang ada banyak yang tidak terawat sehingga banyak yang sudah rusak. Potensi atraksi yang ada",
+                "status_kepemilikan": "Pemerintah Kota Pekalongan",
+                "skema_investasi": "Dengan swasta murni maupun dengan kerjasama Pemerintah",
+                "kab_kota": "Kota Pekalongan",
+                "market": "Potential Project",
+                "sektor": "Tourism",
+                "cp_nama": "Retno Purnomo",
+                "cp_hp": "0816-6545-67",
+                "cp_email": "-",
+                "cp_alamat": "-",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/GW34F9iG1H46LI3wBLRn.jpg",
+                    "proyeks\/September2019\/Y0oK7F54WLhrXrwdVZZy.jpg",
+                    "proyeks\/September2019\/66am9yiGDwqASIoOYasw.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/3.png",
+                "url": "project\/113"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8688599999999997,
+                    109.122
+                ]
+            },
+            "properties": {
+                "id": 114,
+                "title": "Pembangunan Tegal Yekan Park",
+                "nilai_investasi": "Rp 4,603,989,577",
+                "npv": "NPV df 15.26%, 10 tahun: Rp 9.002.951.579",
+                "irr": "27,02%",
+                "bc_ratio": "1,65",
+                "luas_lahan": "18.425 m2",
+                "payback_period": "4 tahun 2 bulan 16 hari",
+                "latar_belakang": "Tegal Yekan Park yang beralamat di Jl. Kolonel Sugiono No. 152, Kecamatan Tegal Barat, Kota Tegal dibuat dengan tujuan mengembangkan kesatuan wisata seni, budaya, produk unggulan daerah dan kuliner yang sejalan dengan semangat Pemerintah Kota Tegal untuk melestarikan budaya lokal. Isi dari Tegal Yekan Park meliputi pusat promosi dan informasi bisnis, Taman Budaya Tegal dan wisata budaya, kuliner serta produk unggulan daerah. Kondisi eksisting dari Pusat Promosi dan Informasi Bisnis yang terdapat pada Tegal Yekan Park terdiri dari 1 unit hall dan 48 kios yang sudah dipergunakan untuk berbagai kegiatan dan aktifitas masyarakat dan  dikelola oleh Dinkop UKM dan Perdagangan. Rencana pengembangan Tegal Yekan Park akan melengkapi beberapa fasilitas diantaranya kios, toilet baru, mushola, lahan parkir mobil dan motor, pendopo, gapura, pagar depan, papan nama dan juga pos jaga.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Pusat Promosi dan Informasi Bisnis : Eksisting: Terdiri dari 1 unit hall, 48 kios. Sudah dipergunakan untuk berbagai kegiatan dan aktifitas masyarakat. Dikelola oleh Dinkop UKM dan Perdagangan. Taman Budaya Tegal : Eksisting: Disewakan untuk pertunjukan. ",
+                "status_kepemilikan": "Pemerintah Kota Tegal",
+                "skema_investasi": "Kerjasama Sewa-Tambah dan Guna maksimal 10 tahun",
+                "kab_kota": "Kota Tegal",
+                "market": "Prospective Project",
+                "sektor": "Tourism",
+                "cp_nama": "DPMPTSP Kota Tegal dan Bappeda Kota Tegal dan Bappeda Kota Tegal",
+                "cp_hp": "(+62283) 35145",
+                "cp_email": "dpmptsp.tegalkota@gmail.com; dalitbang.bappedategalkota@gmail.com",
+                "cp_alamat": "Jl. Ki Gede Sebayu No. 3 Kota Tegal",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/GGCmvJNe27rLqNG3jsGj.jpg",
+                    "proyeks\/September2019\/vupQxKLAJp9cDC5eGXqY.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/2.png",
+                "url": "project\/114"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9833100000000004,
+                    110.408
+                ]
+            },
+            "properties": {
+                "id": 118,
+                "title": "Pengembangan Waduk Gondang Park",
+                "nilai_investasi": "Rp 23,250,000,000",
+                "npv": "-",
+                "irr": "-",
+                "bc_ratio": "-",
+                "luas_lahan": "4,4 Ha",
+                "payback_period": "-",
+                "latar_belakang": "Waduk Gondang Park berada di Kecamatan Kerjo Kabupaten Karanganyar dengan luas tanah 4.400 m2. Menjadi pusat kunjungan masyarakat lokal Solo Raya dan dari luar provinsi diantaranya Bali, Yogyakarta, Jawa Timur, Jawa Barat dan turis dari mancanegara dengan jumlah wisatawan sebanyak 23.000 orang per bulannya. Letak Waduk Gondang Park yang berada di dataran tinggi yang berhawa sejuk merupakan salah satu pilihan banyak orang untuk rehat sejenak dari aktivitas perkotaan dan menikmati liburan yang santai. Untuk pengembangannya, Waduk Godang Park akan ditambah dengan fasilitas wisata air, agrowisata petik buah, outbound, arena Jeep adventure, area pertunjukan budaya dan seni, serta berbagai sarana lainnya yang dapat mendukung kelengkapan berwisata.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Akses jalan masuk sudah lancar, pembebasan tanah sudah selesai, infrastruktur sudah memadai, hanya perlu finishing sarana prasarana, dan masyarakat sekitar sudah mendukung",
+                "status_kepemilikan": "Pemerintah Kabupaten Karanganyar ",
+                "skema_investasi": "-",
+                "kab_kota": "Kabupaten Karanganyar",
+                "market": "Potential Project",
+                "sektor": "Tourism",
+                "cp_nama": "Nunung Susanto, SH, MM (Kepala Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu Kabupaten Karanganyar)",
+                "cp_hp": "081327305454",
+                "cp_email": "-",
+                "cp_alamat": "-",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/3hLHKScX3IwKh2iyUh5g.jpg",
+                    "proyeks\/September2019\/NRVlLeqaiCO2P5TphfOz.jpg",
+                    "proyeks\/September2019\/nxtIa0SEZPG9aFKpnzIs.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/3.png",
+                "url": "project\/118"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6050300000000002,
+                    111.10599999999999
+                ]
+            },
+            "properties": {
+                "id": 120,
+                "title": "Pengembangan Kemuning Park",
+                "nilai_investasi": "Rp 84,930,000,000",
+                "npv": "-",
+                "irr": "-",
+                "bc_ratio": "-",
+                "luas_lahan": "20 Ha",
+                "payback_period": "-",
+                "latar_belakang": "Keindahan yang dimiliki Kemuning Park membuat 1.500 orang per hari datang untuk berwisata. Aktivitas yang biasa dilakukan oleh wisatawan ialah menikmati hawa sejuk pegunungan teh, berjalan \u2013 jalan dan menikmati kuliner masyarakat setempat. Dengan potensi yang dimiliki Kemuning Park akan menambahkan berbagai macam fasilitas dan wahana permainan agar dapat lebih menarik minat banyak wisatawan yang sebagian besar datang dari Kota Surakarta,\nKabupaten Sragen, Kabupaten Sukoharjo, Kabupaten Klaten, Kabupaten Boyolali, Kabupaten Ngawi, Kabupaten Magetan, Kabupaten Ponorogo dan wisatawan dari Bali yang melakukan acara ritual peribadatan agama hindu serta wisatawan asing. Adapun wahana dan fasilitas yang akan dikembangkan di Kemuning Park antara lain jembatan kaca, arena Jeep adventure, arena trail adventure, lapangan golf, landasan pacu dan pendaratan paralayang, outbound, kedai kuliner rakyat dan masih banyak lagi fasilitas yang akan membuat pengunjung merasa betah.  ",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Jalan menuju lokasi sudah tersedia tetapi tidak semua aspal sudah hotmix. Proyek jembatan kaca masih dalam pembangunan. Infrastruktur dan fasilitas telah tersedia",
+                "status_kepemilikan": "Pemerintah Kabupaten Karanganyar ",
+                "skema_investasi": "-",
+                "kab_kota": "Kabupaten Karanganyar",
+                "market": "Potential Project",
+                "sektor": "Tourism",
+                "cp_nama": "Nunung Susanto, SH, MM (Kepala Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu Kabupaten Karanganyar)",
+                "cp_hp": "081327305454",
+                "cp_email": "-",
+                "cp_alamat": "-",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/HEQWNYLRQR5Ar2X8JJ5e.jpg",
+                    "proyeks\/September2019\/rLmvcC1PhF7aDxjmKoVn.jpg",
+                    "proyeks\/September2019\/KbEIvGVGZorTeYfetCb1.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/3.png",
+                "url": "project\/120"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7018000000000004,
+                    111.389
+                ]
+            },
+            "properties": {
+                "id": 132,
+                "title": "Pembangunan Pabrik Gula",
+                "nilai_investasi": "Rp 317,200,000,000",
+                "npv": "-",
+                "irr": "-",
+                "bc_ratio": "-",
+                "luas_lahan": "50 ha",
+                "payback_period": "-",
+                "latar_belakang": "Kabupaten Rembang merupakan daerah penghasil tebu rakyat yang cukup besar di Jawa Tengah dengan luas areal tanaman tebu seluas 6.852 hektar. Saat ini Kabupaten Rembang sudah memiliki pabrik pakan gula hanya saja tidak semua hasil tebu dapat ditampung. Hasil dari 4.352 Ha perkebunan tebu belum dapat ditampung di pabrik pakan gula yang dimiliki Kabupaten Rembang. Melihat potensi tersebut maka akan dilakukan pembangunan pabrik gula yang dapat digunakan untuk menampung lebih banyak hasil perkebunan tebu. Pembangunan pabrik gula ini nantinya berlokasi di Desa Pasarbanggi Kecamatan Rembang. Selain dapat untuk menampung, tentunya dapat juga meningkatkan pendapatan dan kesejahteraan petani tebu serta memberi peluang lapangan kerja bagi masyarakat sekitar.",
+                "lingkup_pekerjaan": null,
+                "eksisting": "Lahan Kosong untuk memenuhi kebutuhan nasional",
+                "status_kepemilikan": "Pemerintah Kabupaten Rembang",
+                "skema_investasi": "Build Operate Transfer dan Swasta Murni",
+                "kab_kota": "Kabupaten Rembang",
+                "market": "Potential Project",
+                "sektor": "Manufacture",
+                "cp_nama": "Murni Nur Rif\u2019ah, SH (Kepala Penanaman Modal DPMPTSPNAKER Kab. Rembang)",
+                "cp_hp": "0295691349",
+                "cp_email": "pm.kab.rembang@gmail.com",
+                "cp_alamat": "Jalan Pemuda Km. 3",
+                "file_kajian": "[]",
+                "file_keuangan": "[]",
+                "fotos": [
+                    "proyeks\/September2019\/FTjER9iXjTlS7ki9OxIz.jpg"
+                ],
+                "marker_image": "http:\/\/cjip.jatengprov.go.id\/map\/icon\/3.png",
+                "url": "project\/132"
+            }
+        }
+    ]
+}

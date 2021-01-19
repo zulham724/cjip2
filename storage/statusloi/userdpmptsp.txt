@@ -1,0 +1,49 @@
+dpmptspkabsmg@gmail.com  ---------------------------------------DPMPTSP Kab Semarang
+dpmptspkabtegal@gmail.com --------------------------------------DPMPTSP Kab Tegal
+kpmptklaten@gmail.com ------------------------------------------DPMPTSP Kab Klaten
+dpmptsp@boyolali.go.id -----------------------------------------DPMPTSP Kab Boyolali
+sekretariat.bpmpt.cilacap@gmail.com ----------------------------DPMPTSP Kab Cilacap
+
+dinpmptsp.purworejo@gmail.com ----------------------------------DPMPTSP Kab Purworejo
+zuliyaniratna@gmail.com ----------------------------------------DPMPTSP Kab Kudus
+tegal@gmail.com ------------------------------------------------DPMPTSP Kota Tegal
+perijinan_terpadu@banjarnegarakab.go.id ------------------------DPMPTSP Kab Banjarnegara
+dpmptspmglkota@gmail.com ---------------------------------------DPMPTSP Kota Magelang
+
+dpmpptspkabbanyumas@gmail.com ----------------------------------DPMPTSP Kab Banyumas
+dpmptspbrebes@gmail.com ----------------------------------------DPMPTSP Kab Brebes
+dpmptsp.kendalkab@gmail.com ------------------------------------DPMPTSP Kab Kendal
+wonosobo@gmail.com ---------------------------------------------DPMPTSP Kab Wonosobo
+wonogiri@gmail.com ---------------------------------------------DPMPTSP Kab Wonogiri
+
+penanaman_modal@ymail.com --------------------------------------DPMPTSP Kab Karanganyar
+temanggungpm@gmail.com -----------------------------------------DPMPTSP Kab Temanggung
+blora@gmail.com ------------------------------------------------DPMPTSP Kab Blora
+dpmptsp@sragenkab.go.id ----------------------------------------DPMPTSP Kab Sragen
+bpptgrobogan@yahoo.com -----------------------------------------DPMPTSP Kab Grobogan
+
+salatigakota@gmail.com -----------------------------------------DPMPTSP Kota Salatiga
+dpmptspkabkebumen@yahoo.com ------------------------------------DPMPTSP Kab Kebumen
+sogeking.sejati@gmail.com --------------------------------------DPMPTSPNAKER Kab Rembang
+bpmpt_batang@yahoo.co.id ---------------------------------------DPMPTSP dan NAKER Kab Batang
+dpmptsp@purbalinggakab.go.id -----------------------------------DPMPTSP Kab Purbalingga
+
+bpptpm@gmail.com -----------------------------------------------DPMPTSP Kab Demak
+dpmptsp.sukoharjo@gmail.com ------------------------------------DPMPTSP Kab Sukoharjo
+dpmptsp.surakarta@gmail.com ------------------------------------DPMPTSP Kota Surakarta
+dpmptspkabmagelang@gmail.com -----------------------------------DPMPTSP Kab Magelang
+dpmptspkotasemarang@gmail.com ----------------------------------DPMPTSP Kota Semarang
+
+kpptpml@gmail.com ----------------------------------------------DPMPTSP Kab Pemalang
+oss@pekalongankota.go.id ---------------------------------------DPMPTSP Kota Pekalongan
+dpmptsp@patikab.go.id ------------------------------------------DPMPTSP Kab Pati
+dpmptsp@jepara.go.id -------------------------------------------DPMPTSP Kab Jepara
+dpmptspnaker.pekalongankab@gmail.com ---------------------------DPMPTSP Kab Pekalongan
+
+password = admin12345
+
+http://192.168.8.204:8000/admin
+
+http://investasi.dpmptsp.jatengprov.go.id/site/login
+password = !UShouldn'tKnow!29
+

@@ -1,0 +1,38 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+
+class CreateAwardsTable extends Migration {
+
+	/**
+	 * Run the migrations.
+	 *
+	 * @return void
+	 */
+	public function up()
+	{
+		Schema::create('awards', function(Blueprint $table)
+		{
+			$table->increments('id');
+			$table->string('nama')->nullable();
+			$table->string('nominasi')->nullable();
+			$table->date('tahun')->nullable();
+			$table->string('foto')->nullable();
+			$table->timestamps();
+			$table->string('display')->nullable();
+		});
+	}
+
+
+	/**
+	 * Reverse the migrations.
+	 *
+	 * @return void
+	 */
+	public function down()
+	{
+		Schema::drop('awards');
+	}
+
+}

@@ -1,0 +1,578 @@
+{
+    "counters": {
+        "u_content_image": 7,
+        "u_content_text": 22,
+        "u_content_divider": 4,
+        "u_content_button": 5,
+        "u_column": 26,
+        "u_row": 19
+    },
+    "body": {
+        "rows": [{
+                "cells": [
+                    1,
+                    1
+                ],
+                "columns": [{
+                        "contents": [{
+                            "type": "image",
+                            "values": {
+                                "containerPadding": "10px",
+                                "_meta": {
+                                    "htmlID": "u_content_image_6",
+                                    "htmlClassNames": "u_content_image"
+                                },
+                                "selectable": true,
+                                "draggable": true,
+                                "deletable": true,
+                                "src": {
+                                    "url": "https://unroll-images-production.s3.amazonaws.com/projects/0/1588815298240-unnamed.png",
+                                    "width": 186,
+                                    "height": 120
+                                },
+                                "textAlign": "center",
+                                "altText": "Image",
+                                "action": {
+                                    "name": "web",
+                                    "values": {
+                                        "href": "",
+                                        "target": "_blank"
+                                    }
+                                }
+                            }
+                        }],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "_meta": {
+                                "htmlID": "u_column_17",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    },
+                    {
+                        "contents": [{
+                            "type": "text",
+                            "values": {
+                                "containerPadding": "10px",
+                                "_meta": {
+                                    "htmlID": "u_content_text_16",
+                                    "htmlClassNames": "u_content_text"
+                                },
+                                "selectable": true,
+                                "draggable": true,
+                                "deletable": true,
+                                "color": "#555555",
+                                "textAlign": "right",
+                                "lineHeight": "140%",
+                                "linkStyle": {
+                                    "inherit": true,
+                                    "linkColor": "#0000ee",
+                                    "linkHoverColor": "#0000ee",
+                                    "linkUnderline": true,
+                                    "linkHoverUnderline": true
+                                },
+                                "text": "<p style=\"font-size: 14px; line-height: 140%;\">CENTRAL JAVA INVESTMENT BUSINESS FORUM&nbsp; &amp; CENTRAL JAVA BUSINESS EXPO 2017</p>\n<p style=\"font-size: 14px; line-height: 140%;\">&nbsp;</p>\n<p style=\"font-size: 14px; line-height: 140%;\">&nbsp;</p>\n<p style=\"font-size: 14px; line-height: 140%;\"><small style=\"font-size: 11px;\">SOLO, INDONESIA | NOVEMBER 22-25</small></p>"
+                            }
+                        }],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "_meta": {
+                                "htmlID": "u_column_19",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "hideDesktop": false,
+                    "hideMobile": false,
+                    "noStackMobile": false,
+                    "_meta": {
+                        "htmlID": "u_row_13",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "deletable": true
+                }
+            },
+            {
+                "cells": [
+                    1
+                ],
+                "columns": [{
+                    "contents": [{
+                        "type": "text",
+                        "values": {
+                            "containerPadding": "10px",
+                            "_meta": {
+                                "htmlID": "u_content_text_17",
+                                "htmlClassNames": "u_content_text"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "deletable": true,
+                            "color": "#000000",
+                            "textAlign": "left",
+                            "lineHeight": "140%",
+                            "linkStyle": {
+                                "inherit": true,
+                                "linkColor": "#0000ee",
+                                "linkHoverColor": "#0000ee",
+                                "linkUnderline": true,
+                                "linkHoverUnderline": true
+                            },
+                            "text": "<p style=\"margin-bottom: 0.0001pt; line-height: 140%; font-size: 14px;\"><span style=\"font-size: 16px; font-family: Arial, sans-serif; color: black; line-height: 22.4px;\">Dear Sir/Madam,</span></p>\n<p style=\"margin-bottom: 0.0001pt; line-height: 140%; font-size: 14px;\"><span style=\"font-size: 16px; font-family: Arial, sans-serif; color: black; line-height: 22.4px;\">&nbsp;</span></p>\n<p style=\"margin-bottom: 0.0001pt; line-height: 140%; font-size: 14px;\"><span style=\"font-size: 16px; font-family: Arial, sans-serif; color: black; line-height: 22.4px;\">&nbsp;</span></p>\n<p style=\"margin-bottom: 0.0001pt; line-height: 140%; font-size: 14px;\"><span style=\"font-size: 16px; font-family: Arial, sans-serif; color: black; line-height: 22.4px;\">Government of Central Java Province, Republic of Indonesia, together with Indonesia Investment Coordinating Board, and Bank of Indonesia cordially&nbsp;invite&nbsp;you to attend:</span></p>\n<p style=\"margin-bottom: 0.0001pt; line-height: 140%; font-size: 14px;\"><span style=\"font-size: 16px; font-family: Arial, sans-serif; color: black; line-height: 22.4px;\">&nbsp;</span></p>\n<p style=\"margin-bottom: 0.0001pt; line-height: 140%; font-size: 14px;\"><strong><span style=\"font-size: 16px; font-family: Arial, sans-serif; color: black; line-height: 22.4px;\">&ldquo;Central Java Investment Business Forum (CJIBF) 2017&rdquo;&nbsp;</span></strong></p>\n<p style=\"margin-bottom: 0.0001pt; line-height: 140%; font-size: 14px;\"><span style=\"font-size: 16px; font-family: Arial, sans-serif; color: black; line-height: 22.4px;\">&nbsp;</span></p>\n<p style=\"margin-bottom: 0.0001pt; line-height: 140%; font-size: 14px;\"><span style=\"font-size: 16px; font-family: Arial, sans-serif; color: black; line-height: 22.4px;\">which is going to be held on November 22 &ndash; 23, 2017 at Solo Paragon Hotel, Jl. Dr. Soetomo, Surakarta City.&nbsp;This event will offer investment opportunities and potencies, mainly in tourism and industrial sector, and other sectors, such as infrastructure, energy and mining, property and agriculture sectors in Central Java.</span></p>\n<p style=\"margin-bottom: 0.0001pt; line-height: 140%; font-size: 14px;\"><span style=\"font-size: 16px; font-family: Arial, sans-serif; color: black; line-height: 22.4px;\">&nbsp;</span></p>\n<p style=\"margin-bottom: 0.0001pt; line-height: 140%; font-size: 14px;\"><span style=\"font-size: 16px; font-family: Arial, sans-serif; color: black; line-height: 22.4px;\">Please find the attached&nbsp;invitation&nbsp;letter. Due to limited seats, participation in this event is by&nbsp;invitation&nbsp;only.&nbsp;If you would like to attend, please&nbsp;kindly fill the registration form on </span><a href=\"http://www.cjibf2017.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.cjibf2017.com/&amp;source=gmail&amp;ust=1588901472921000&amp;usg=AFQjCNGj3nx0QiYWZHCACZSoM9PfXOdOLA\"><span style=\"font-size: 16px; font-family: Arial, sans-serif; line-height: 22.4px;\">www.cjibf2017.com</span></a><span style=\"font-size: 16px; font-family: Arial, sans-serif; color: black; line-height: 22.4px;\">. </span></p>\n<p style=\"margin-bottom: 0.0001pt; line-height: 140%; font-size: 14px;\"><span style=\"font-size: 16px; font-family: Arial, sans-serif; color: black; line-height: 22.4px;\">&nbsp;</span></p>\n<p style=\"margin-bottom: 0.0001pt; line-height: 140%; font-size: 14px;\"><span style=\"font-size: 16px; font-family: Arial, sans-serif; color: black; line-height: 22.4px;\">Should you have any further questions or concerns, please do not hesitate to contact us.</span></p>\n<p style=\"margin-bottom: 0.0001pt; line-height: 140%; font-size: 14px;\"><span style=\"font-size: 16px; font-family: Arial, sans-serif; color: black; line-height: 22.4px;\">&nbsp;</span></p>\n<p style=\"margin-bottom: 0.0001pt; line-height: 140%; font-size: 14px;\"><span style=\"font-size: 16px; font-family: Arial, sans-serif; color: black; line-height: 22.4px;\"><br />Best regards,</span></p>\n<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"font-size: 16px; line-height: 22.4px; font-family: Arial, sans-serif; color: black;\">CJIBF Secretariat</span></p>"
+                        }
+                    }],
+                    "values": {
+                        "backgroundColor": "",
+                        "padding": "0px",
+                        "border": {},
+                        "_meta": {
+                            "htmlID": "u_column_20",
+                            "htmlClassNames": "u_column"
+                        }
+                    }
+                }],
+                "values": {
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "hideDesktop": false,
+                    "hideMobile": false,
+                    "noStackMobile": false,
+                    "_meta": {
+                        "htmlID": "u_row_14",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "deletable": true
+                }
+            },
+            {
+                "cells": [
+                    1
+                ],
+                "columns": [{
+                    "contents": [{
+                        "type": "text",
+                        "values": {
+                            "containerPadding": "10px",
+                            "_meta": {
+                                "htmlID": "u_content_text_20",
+                                "htmlClassNames": "u_content_text"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "deletable": true,
+                            "color": "#000000",
+                            "textAlign": "center",
+                            "lineHeight": "140%",
+                            "linkStyle": {
+                                "inherit": true,
+                                "linkColor": "#0000ee",
+                                "linkHoverColor": "#0000ee",
+                                "linkUnderline": true,
+                                "linkHoverUnderline": true
+                            },
+                            "text": "<h4 style=\"color: #555555; padding: 0px; font-size: 18px; line-height: 20px; font-weight: 300; margin: 0px 0px 15px;\">Click here for more information</h4>"
+                        }
+                    }],
+                    "values": {
+                        "backgroundColor": "",
+                        "padding": "0px",
+                        "border": {},
+                        "_meta": {
+                            "htmlID": "u_column_22",
+                            "htmlClassNames": "u_column"
+                        }
+                    }
+                }],
+                "values": {
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "hideDesktop": false,
+                    "hideMobile": false,
+                    "noStackMobile": false,
+                    "_meta": {
+                        "htmlID": "u_row_16",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "deletable": true
+                }
+            },
+            {
+                "cells": [
+                    1
+                ],
+                "columns": [{
+                    "contents": [{
+                        "type": "button",
+                        "values": {
+                            "containerPadding": "10px",
+                            "_meta": {
+                                "htmlID": "u_content_button_5",
+                                "htmlClassNames": "u_content_button"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "deletable": true,
+                            "href": {
+                                "name": "web",
+                                "attrs": {
+                                    "href": "{{href}}",
+                                    "target": "{{target}}"
+                                },
+                                "values": {
+                                    "href": "cjibf2017.com",
+                                    "target": "_blank"
+                                }
+                            },
+                            "buttonColors": {
+                                "color": "#FFFFFF",
+                                "backgroundColor": "#743e18",
+                                "hoverColor": "#FFFFFF",
+                                "hoverBackgroundColor": "#3AAEE0"
+                            },
+                            "size": {
+                                "autoWidth": true,
+                                "fullWidthOnMobile": false,
+                                "width": "50%"
+                            },
+                            "textAlign": "center",
+                            "lineHeight": "120%",
+                            "border": {},
+                            "borderRadius": "4px",
+                            "padding": "10px 20px",
+                            "text": "<span style=\"font-size: 14px; line-height: 16.8px;\">CJIBF2017.com</span>",
+                            "calculatedWidth": 139,
+                            "calculatedHeight": 37
+                        }
+                    }],
+                    "values": {
+                        "backgroundColor": "",
+                        "padding": "0px",
+                        "border": {},
+                        "_meta": {
+                            "htmlID": "u_column_23",
+                            "htmlClassNames": "u_column"
+                        }
+                    }
+                }],
+                "values": {
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "hideDesktop": false,
+                    "hideMobile": false,
+                    "noStackMobile": false,
+                    "_meta": {
+                        "htmlID": "u_row_17",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "deletable": true
+                }
+            },
+            {
+                "cells": [
+                    1,
+                    1
+                ],
+                "columns": [{
+                        "contents": [{
+                            "type": "image",
+                            "values": {
+                                "containerPadding": "10px",
+                                "_meta": {
+                                    "htmlID": "u_content_image_7",
+                                    "htmlClassNames": "u_content_image"
+                                },
+                                "selectable": true,
+                                "draggable": true,
+                                "deletable": true,
+                                "src": {
+                                    "url": "https://unroll-images-production.s3.amazonaws.com/projects/0/1588815647252-unnamed.png",
+                                    "width": 186,
+                                    "height": 120
+                                },
+                                "textAlign": "center",
+                                "altText": "Image",
+                                "action": {
+                                    "name": "web",
+                                    "values": {
+                                        "href": "",
+                                        "target": "_blank"
+                                    }
+                                }
+                            }
+                        }],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "_meta": {
+                                "htmlID": "u_column_24",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    },
+                    {
+                        "contents": [{
+                            "type": "text",
+                            "values": {
+                                "containerPadding": "10px",
+                                "_meta": {
+                                    "htmlID": "u_content_text_21",
+                                    "htmlClassNames": "u_content_text"
+                                },
+                                "selectable": true,
+                                "draggable": true,
+                                "deletable": true,
+                                "color": "#000000",
+                                "textAlign": "right",
+                                "lineHeight": "140%",
+                                "linkStyle": {
+                                    "inherit": true,
+                                    "linkColor": "#0000ee",
+                                    "linkHoverColor": "#0000ee",
+                                    "linkUnderline": true,
+                                    "linkHoverUnderline": true
+                                },
+                                "text": "<p style=\"font-size: 14px; line-height: 140%; text-align: right;\">&nbsp;</p>\n<p style=\"font-size: 14px; line-height: 140%; text-align: right;\"><strong>\"More Thank Investment, It's Integrated\"</strong> <br />Central Java Investment Business Forum is the leading annual forum for Investors and Policy makers on investment in central java.</p>"
+                            }
+                        }],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "_meta": {
+                                "htmlID": "u_column_25",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "hideDesktop": false,
+                    "hideMobile": false,
+                    "noStackMobile": false,
+                    "_meta": {
+                        "htmlID": "u_row_18",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "deletable": true
+                }
+            },
+            {
+                "cells": [
+                    1
+                ],
+                "columns": [{
+                    "contents": [{
+                        "type": "text",
+                        "values": {
+                            "containerPadding": "10px",
+                            "_meta": {
+                                "htmlID": "u_content_text_22",
+                                "htmlClassNames": "u_content_text"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "deletable": true,
+                            "color": "#000000",
+                            "textAlign": "center",
+                            "lineHeight": "140%",
+                            "linkStyle": {
+                                "inherit": true,
+                                "linkColor": "#0000ee",
+                                "linkHoverColor": "#0000ee",
+                                "linkUnderline": true,
+                                "linkHoverUnderline": true
+                            },
+                            "text": "<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"font-size: 11px; line-height: 15.4px;\">Jl. Mgr Soegiyopronoto No.1, Pendrikan Kidul, Semarang Tengah</span><br /><span style=\"font-size: 11px; line-height: 15.4px;\">Kota Semarang, Jawa Tengah 50131 </span><br /><span style=\"font-size: 11px; line-height: 15.4px;\">Phone</span><span style=\"font-size: 11px; line-height: 15.4px;\">: <a dir=\"ltr\" href=\"tel:(024)%203547091\" target=\"_blank\" rel=\"noopener noreferrer\">(024) 3547091</a> </span><br /><span style=\"font-size: 11px; line-height: 15.4px;\"><a dir=\"ltr\" href=\"tel:+62%20812%20-2721668\" target=\"_blank\" rel=\"noopener noreferrer\">+62 812 -2721668</a> (Tria) | <a dir=\"ltr\" href=\"tel:+62%20812%20-2883-538\" target=\"_blank\" rel=\"noopener noreferrer\">+62 812 -2883-538</a> (Alif)</span></p>"
+                        }
+                    }],
+                    "values": {
+                        "backgroundColor": "",
+                        "padding": "0px",
+                        "border": {},
+                        "_meta": {
+                            "htmlID": "u_column_26",
+                            "htmlClassNames": "u_column"
+                        }
+                    }
+                }],
+                "values": {
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "hideDesktop": false,
+                    "hideMobile": false,
+                    "noStackMobile": false,
+                    "_meta": {
+                        "htmlID": "u_row_19",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "deletable": true
+                }
+            },
+            {
+                "cells": [
+                    1
+                ],
+                "columns": [{
+                    "contents": [{
+                        "type": "text",
+                        "values": {
+                            "containerPadding": "20px",
+                            "_meta": {
+                                "htmlID": "u_content_text_14",
+                                "htmlClassNames": "u_content_text"
+                            },
+                            "selectable": false,
+                            "draggable": false,
+                            "deletable": false,
+                            "color": "#000",
+                            "textAlign": "left",
+                            "lineHeight": "120%",
+                            "linkStyle": {
+                                "inherit": true,
+                                "linkColor": "#0000ee",
+                                "linkHoverColor": "#0000ee",
+                                "linkUnderline": true,
+                                "linkHoverUnderline": true
+                            },
+                            "text": "<div style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12px; color: #999999; line-height: 14.4px;\">You received this email because you signed up for .</span></div>\n<div style=\"font-family: arial, helvetica, sans-serif;\">&nbsp;</div>\n<div style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12px; color: #999999; line-height: 14.4px;\"></span></div>"
+                        }
+                    }],
+                    "values": {
+                        "_meta": {
+                            "htmlID": "u_column_14",
+                            "htmlClassNames": "u_column"
+                        }
+                    }
+                }],
+                "values": {
+                    "columns": false,
+                    "backgroundColor": "#f0f0f0",
+                    "columnsBackgroundColor": "rgba(255,255,255,0)",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": false,
+                        "cover": false
+                    },
+                    "padding": "30px",
+                    "hideDesktop": false,
+                    "hideMobile": false,
+                    "noStackMobile": false,
+                    "_meta": {
+                        "htmlID": "u_row_11",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": false,
+                    "draggable": false,
+                    "deletable": false
+                }
+            }
+        ],
+        "values": {
+            "backgroundColor": "#ffffff",
+            "backgroundImage": {
+                "url": "",
+                "fullWidth": true,
+                "repeat": false,
+                "center": true,
+                "cover": false
+            },
+            "contentWidth": "600px",
+            "fontFamily": {
+                "label": "Montserrat",
+                "value": "'Montserrat',sans-serif",
+                "type": "google",
+                "weights": "400,700"
+            },
+            "linkStyle": {
+                "body": true,
+                "linkColor": "#0000ee",
+                "linkHoverColor": "#0000ee",
+                "linkUnderline": true,
+                "linkHoverUnderline": true
+            },
+            "_meta": {
+                "htmlID": "u_body",
+                "htmlClassNames": "u_body"
+            }
+        }
+    }
+}
